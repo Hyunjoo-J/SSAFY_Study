@@ -12,7 +12,7 @@ public class p2251_HJ {
 
         Set<Integer> set = new HashSet<>(); //A가 비었을 때 C값 저장
         set.add(lim[2]);
-        //water : A,B,C 각각이 갖는 값이 중복되지 않는지 확인하는 배열, 재탐색방지 목적
+        //water : A,B,C 각각이 갖는 값이 중복되지 않는지 확인하는 배열, 재탐색 방지 목적
         boolean[][][] water =  new boolean[lim[0]+1][lim[1]+1][lim[2]+1];
         water[0][0][lim[2]] = true; //시작
         Queue<int[]> q = new LinkedList<>(); //bfs
