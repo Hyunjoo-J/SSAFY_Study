@@ -1,3 +1,5 @@
+package BFS.p13549_숨바꼭질3;
+
 import java.io.*;
 import java.util.*;
 
