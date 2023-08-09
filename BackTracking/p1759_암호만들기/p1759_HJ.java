@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class p1759_암호만들기_HJ {
+public class p1759_HJ {
 	static int L, C, ae, bc;
 	static String[] strs;
 	static String[] sel;
