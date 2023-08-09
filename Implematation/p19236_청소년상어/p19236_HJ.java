@@ -1,7 +1,7 @@
 import java.io.*;
 import java.util.*;
 
-public class p19236_청소년상어_HJ {
+public class p19236_HJ {
 	public static class Fish {
 		private int size;
 		private int dir;
