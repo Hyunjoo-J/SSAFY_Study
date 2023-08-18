@@ -1,5 +1,3 @@
-package Silver1;
-
 import java.util.Scanner;
 
 public class P1747_MJ {
