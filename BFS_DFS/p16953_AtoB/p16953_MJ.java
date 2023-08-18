@@ -1,8 +1,10 @@
+package BFS_DFS.p16953_AtoB;
+
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
 
-public class Main {
+public class p16953_MJ {
 
 	static long A, B;
 	static int cnt;
