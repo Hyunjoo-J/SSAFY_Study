@@ -1,4 +1,4 @@
-package DP.p2579_계단오르기;
+package DynamicProgramming.p2579_계단오르기;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

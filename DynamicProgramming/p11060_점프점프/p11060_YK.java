@@ -1,4 +1,4 @@
-package DP.p11060_점프점프;
+package DynamicProgramming.p11060_점프점프;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

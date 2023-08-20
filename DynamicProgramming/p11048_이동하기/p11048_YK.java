@@ -1,4 +1,4 @@
-package DP.p11048_이동하기;
+package DynamicProgramming.p11048_이동하기;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
