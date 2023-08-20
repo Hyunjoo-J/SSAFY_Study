@@ -1,4 +1,4 @@
-package DynamicProgramming.p12920_평범한배낭;
+package DynamicProgramming.p12920_평범한배낭2;
 
 import java.io.*;
 import java.util.*;
