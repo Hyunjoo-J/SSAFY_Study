@@ -1,3 +1,5 @@
+package TwoPointer.p2531_회전초밥;
+
 import java.io.*;
 import java.util.*;
 
