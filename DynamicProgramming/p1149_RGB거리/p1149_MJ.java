@@ -1,5 +1,4 @@
 package DynamicProgramming.p1149_RGB거리;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
