@@ -198,8 +198,6 @@ public class p23289_HC {
                 if (wall[x + 1][y][0] || wall[x + 1][y - 1][1])
                     return true;
             }
-            // t가 0인 경우 (x, y)와 (x-1, y) 사이에 벽이 있는 것이고,
-            // 1인 경우에는 (x, y)와 (x, y+1) 사이에 벽이 있는 것이다.
         } else if (dir == 3) {
             if (i == 0) {
                 if (wall[x][y][0])
