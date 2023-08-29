@@ -1,4 +1,4 @@
-package Implematation.p1912_연속합;
+package DynamicProgramming.p1912_연속합;
 
 import java.io.*;
 import java.util.*;

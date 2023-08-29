@@ -1,4 +1,4 @@
-package Implematation.p1932_정수삼각형;
+package DynamicProgramming.p1932_정수삼각형;
 
 import java.io.*;
 import java.util.*;

@@ -1,4 +1,4 @@
-package BackTracking.p14888_연산자우선순위;
+package BackTracking.p14888_연산자끼워넣기;
 
 import java.io.*;
 import java.util.*;
