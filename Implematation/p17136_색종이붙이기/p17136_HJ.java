@@ -4,7 +4,6 @@ import java.io.*;
 import java.util.*;
 
 public class p17136_HJ {
-
 	static int ans = Integer.MAX_VALUE;
     static int[][] map = new int[10][10];
     static int[] paper = {0, 5, 5, 5, 5, 5};
