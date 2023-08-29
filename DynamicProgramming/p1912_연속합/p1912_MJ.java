@@ -1,5 +1,4 @@
-package Silver2;
-
+package DynamicProgramming.p1912_연속합;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
