@@ -44,7 +44,7 @@ public class p17136_HC {
                         continue;
                     if (paper[h] < 1)
                         continue;
-                    if (hash(graph, r, c, h)) {
+                    if (check(graph, r, c, h)) {
                         --paper[h];
                         fill(graph, r, c, h, false);
                         dfs(i + h, depth + 1);
@@ -75,7 +75,7 @@ public class p17136_HC {
         }
     }
 
-    private static boolean hash(boolean[][] graph, int x, int y, int l) {
+    private static boolean check(boolean[][] graph, int x, int y, int l) {
         for (int i = x; i < x + l; ++i) {
             for (int j = y; j < y + l; ++j) {
                 if (!graph[i][j])
