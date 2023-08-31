@@ -1,7 +1,9 @@
+package Implematation.p20057_마법사상어와토네이도;
+
 import java.util.*;
 import java.io.*;
 
-public class Main {
+public class p20057_HJ {
     static int N, ans;
     static int[][] map;
     static int[] dx = {0, 1, 0, -1};
