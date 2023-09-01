@@ -54,7 +54,7 @@ public class p11779_HJ {
         while(!stack.isEmpty()) {
             sb.append(stack.pop() + " ");
         }
-        System.out.println(sb.toString());
+        System.out.println(sb);
     }
     private static void dijkstra(){
         PriorityQueue<Node> q = new PriorityQueue<>();
