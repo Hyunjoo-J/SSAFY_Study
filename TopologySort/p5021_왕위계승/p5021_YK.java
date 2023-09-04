@@ -9,7 +9,7 @@ import java.util.Set;
 import java.util.StringTokenizer;
 
 public class p5021_YK {
-    static HashMap<String, Double> inDegree;
+    static HashMap<String, Double> blood;
     static HashMap<String, String[]> family;
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -19,8 +19,8 @@ public class p5021_YK {
         int N = Integer.parseInt(st.nextToken());
         int M = Integer.parseInt(st.nextToken());
         String king = br.readLine();
-        inDegree = new HashMap<>();
-        inDegree.put(king, 1.0);
+        blood = new HashMap<>();
+        blood.put(king, 1.0);
 
         family = new HashMap<>();
         String child, mom, dad;
@@ -31,7 +31,7 @@ public class p5021_YK {
             mom = st.nextToken();
             dad = st.nextToken();
 
-            inDegree.put(child, 0.0);
+            blood.put(child, 0.0);
             family.put(child, new String[] {mom, dad});
         }
 
@@ -44,20 +44,20 @@ public class p5021_YK {
             p1 = getInDegree(mom);
             p2 = getInDegree(dad);
 
-            inDegree.replace(key, (p1 + p2) / 2);
+            blood.replace(key, (p1 + p2) / 2);
         }
 
-        double blood = 0;
+        double b = 0;
         String result = "";
         for (int i = 0; i < M; ++i) {
             String candidate = br.readLine();
-            if (!inDegree.containsKey(candidate)) {
-                if (blood > 0) continue;
+            if (!blood.containsKey(candidate)) {
+                if (b > 0) continue;
                 result = candidate;
                 continue;
             }
-            if (blood < inDegree.get(candidate)) {
-                blood = inDegree.get(candidate);
+            if (b < blood.get(candidate)) {
+                b = blood.get(candidate);
                 result = candidate;
             }
         }
@@ -69,8 +69,8 @@ public class p5021_YK {
     }
 
     private static double getInDegree(String c) {
-        if (!inDegree.containsKey(c)) return 0.0;
-        if (inDegree.get(c) != 0.0) return inDegree.get(c);
+        if (!blood.containsKey(c)) return 0.0;
+        if (blood.get(c) != 0.0) return blood.get(c);
         return (getInDegree(family.get(c)[0]) + getInDegree(family.get(c)[1])) / 2;
     }
 }
