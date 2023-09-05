@@ -1,4 +1,4 @@
-package p11779_최소비용구하기2;
+package Dijkstra.p11779_최소비용구하기2;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

@@ -1,4 +1,4 @@
-package p1753_최단경로;
+package Dijkstra.p1753_최단경로;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -53,7 +53,7 @@ public class p1753_YK {
             stopOver = -1;
 
             for (int j = 1; j <= V; ++j) {
-                if (!visited[j] && min > distance[j]) { 
+                if (!visited[j] && min > distance[j]) {
                     min = distance[j];
                     stopOver = j;
                 }
