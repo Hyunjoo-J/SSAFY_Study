@@ -75,9 +75,6 @@ public class p11779_YK {
 					distance[tmp.vertex] = min + tmp.weight;
 				}
 			}
-//			
-//			System.out.println(stopOver + " " + Arrays.toString(distance));
-//			System.out.println(Arrays.toString(route));
 		}
 		
 		bw.write(distance[end] + "\n");
