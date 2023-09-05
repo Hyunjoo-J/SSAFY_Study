@@ -3,7 +3,7 @@ package Dijkstra.p10282_해킹;
 import java.io.*;
 import java.util.*;
 
-public class p10282_HC {
+public class p10282_HJ {
 static class Node implements Comparable<Node>{
         int v, weight;
 
