@@ -3,7 +3,7 @@ package TopologySort.p2056_작업;
 import java.io.*;
 import java.util.*;
 
-public class p2056_HC {
+public class p2056_HJ {
 
 	public static void main(String[] args) throws Exception {
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
