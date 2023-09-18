@@ -16,7 +16,7 @@ public class p1927_YK {
 
         int N = Integer.parseInt(br.readLine());
         int S = 1;
-        while (S < N) S <<= 1;
+        while (S <= N) S <<= 1;
         heap = new int[S];
         Arrays.fill(heap, Integer.MAX_VALUE);
 
