@@ -10,7 +10,7 @@ public class p3176_HJ {
             this.dis = dis;
         }
     }
-    static int N, M, height;
+    static int N, height;
     static List<Pair>[] list;
     static int[][] parent, max, min;
     static int[] depth;
@@ -59,7 +59,7 @@ public class p3176_HJ {
             if(i!=k-1) sb.append("\n");
         }
 
-        System.out.print(sb.toString());
+        System.out.print(sb);
     }
 
     private static void init(int root, int h, int p) {
