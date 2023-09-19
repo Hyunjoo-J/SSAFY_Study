@@ -39,7 +39,6 @@ public class p17780_HJ {
             }
         }
         int r, c, dir;
-        PriorityQueue<Info> pq = new PriorityQueue<>();
         for(int i = 0; i < K; ++i){
             st = new StringTokenizer(br.readLine());
             r = Integer.parseInt(st.nextToken()) - 1;
