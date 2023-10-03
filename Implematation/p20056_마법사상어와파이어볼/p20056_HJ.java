@@ -18,9 +18,7 @@ public class p20056_HJ {
     static ArrayList<meteor>[][] map;
     static ArrayList<meteor> meteors = new ArrayList<>();
     public static void main(String[] args) throws IOException {
-        //입력값 처리하는 BufferedReader
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        //결과값 출력하는 BufferedWriter
         BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));
         StringTokenizer st = new StringTokenizer(br.readLine(), " ");
         int N = Integer.parseInt(st.nextToken());
@@ -45,7 +43,7 @@ public class p20056_HJ {
             meteorFire(N);
         }
         bw.write(meteorCal() + "");
-        bw.flush();		//결과 출력
+        bw.flush();
         bw.close();
         br.close();
     }
