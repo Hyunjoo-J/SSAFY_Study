@@ -9,13 +9,13 @@
 |Dijkstra|4|4|3|4|
 |DynamicProgramming|10|10|8|10|
 |Implematation|11|6|4|10|
-|KMP|3|1|0|0|
+|KMP|3|2|2|2|
 |LCA|5|2|0|3|
 |MST|2|2|2|2|
-|PrefixSum|1|0|0|0|
+|PrefixSum|1|1|1|1|
 |SegmentTree|5|3|0|3|
 |String|0|0|0|1|
 |TopologySort|3|3|2|3|
-|TwoPointer|5|4|1|1|
-| **합계** | **82**|**65**|**45**|**69**|
+|TwoPointer|5|4|4|4|
+| **합계** | **82**|**67**|**51**|**75**|
 
