@@ -3,19 +3,20 @@
 | :-------------: | :----: | :----: | :----: | :----: |
 |BackTracking|3|3|3|3|
 |BFS_DFS|16|14|14|16|
-|BinarySearch|4|4|3|3|
+|BinarySearch|5|4|3|3|
 |Bruteforce|4|4|2|4|
 |DataStructure|6|5|3|6|
 |Dijkstra|4|4|3|4|
-|DynamicProgramming|10|10|8|10|
-|Implematation|11|6|4|10|
-|KMP|3|2|2|2|
+|DivideAndConquer|2|0|0|0|
+|DynamicProgramming|11|10|8|10|
+|Implematation|12|6|4|10|
+|KMP|3|3|2|2|
 |LCA|5|2|0|3|
 |MST|2|2|2|2|
-|PrefixSum|1|1|1|1|
+|PrefixSum|3|1|1|1|
 |SegmentTree|5|3|0|3|
-|String|0|0|0|1|
+|String|1|0|0|1|
 |TopologySort|3|3|2|3|
 |TwoPointer|5|4|4|4|
-| **합계** | **82**|**67**|**51**|**75**|
+| **합계** | **90**|**68**|**51**|**75**|
 
