@@ -33,11 +33,6 @@ public class p1493_YK {
 	private static void fillCube(int length, int width, int height) {
 		if (result == -1) return;
 		if (length == 0 || width == 0 || height == 0) return;
-//		if (length < -50) {
-//			result = -1;
-//			return;
-//		}
-//		System.out.println(length + " " + width + " " + height);
 		
 		int min = Math.min(length, Math.min(width, height));
 		int k = 0;
@@ -46,7 +41,6 @@ public class p1493_YK {
 		}
 		if (k > 0) --k;
 
-//		System.out.println(min + " " + k);
 		while (k > -1 && cubes[k] < 1) {
 			--k;
 		}
