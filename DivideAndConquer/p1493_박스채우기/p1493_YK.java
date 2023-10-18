@@ -53,9 +53,9 @@ public class p1493_YK {
 		--cubes[k];
 		++result;
 		int len = (int)Math.pow(2, k);
-		fillCube(length - len, len, len);
-		fillCube(length, width - len, height);
-		fillCube(length, len, height - len);
+		fillCube(len, width - len, len);
+		fillCube(length - len, width, len);
+		fillCube(length, width, height - len);
 	}
 
 }
