@@ -4,11 +4,11 @@
 |BackTracking|3|3|3|3|
 |BFS_DFS|20|16|14|18|
 |BinarySearch|6|5|4|5|
-|Bruteforce|5|4|2|4|
+|Bruteforce|6|4|2|4|
 |DataStructure|7|5|3|7|
 |Dijkstra|7|5|3|5|
 |DivideAndConquer|3|3|2|2|
-|DynamicProgramming|19|15|14|18|
+|DynamicProgramming|20|15|14|18|
 |Greedy|2|2|0|2|
 |Implematation|14|7|4|10|
 |KMP|3|3|2|2|
@@ -22,5 +22,5 @@
 |Trie|2|0|0|1|
 |TwoPointer|5|5|4|4|
 |UnionFind|1|0|0|1|
-| **합계** | **120**|**87**|**62**|**100**|
+| **합계** | **122**|**87**|**62**|**100**|
 
