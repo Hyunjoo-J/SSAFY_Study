@@ -1,7 +1,5 @@
 package Implematation.p1713_후보추천하기;
 
-import sun.text.resources.JavaTimeSupplementary;
-
 import java.io.*;
 import java.util.*;
 
