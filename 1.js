@@ -28,7 +28,10 @@ function makeProblemToggleHtml(alg) {
         if (problem[0] === 'p') {
             const problemNumber = problem.substring(1, problem.indexOf('_'));
 
-            tag += `        <li><a href="http://boj.kr/${problemNumber}" style="text-decoration: none;">${problem}</a></li>\n`;
+            tag += `        <li><a href="http://boj.kr/${problemNumber}">${problem.replace(
+                '_',
+                ' '
+            )}</a></li>\n`;
         } else {
             tag += `        <li>${problem}</li>\n`;
         }
