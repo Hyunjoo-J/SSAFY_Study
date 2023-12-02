@@ -16,8 +16,32 @@ function checkCondition(p) {
     return true;
 }
 
+function makeProblemToggleHtml(alg) {
+    let tag = '';
+    tag += `
+<details>
+<summary>${alg}</summary>
+<div markdown="1">
+    <ul>\n`;
+
+    problemMap[alg].forEach((problem) => {
+        if (problem[0] === 'p') {
+            const problemNumber = problem.substring(1, problem.indexOf('_'));
+
+            tag += `        <li><a href="http://boj.kr/${problemNumber}">${problem}</a></li>\n`;
+        } else {
+            tag += `        <li>${problem}</li>\n`;
+        }
+    });
+    tag += `    </ul>
+</div>
+</details>\n`;
+    return tag;
+}
+
 const result = {};
 const studentMap = { HC: 0, YK: 1, MJ: 2, HJ: 3 };
+const problemMap = {};
 
 fs.readdirSync('./', { withFileTypes: true }).forEach((p) => {
     const name = p.name;
@@ -27,7 +51,9 @@ fs.readdirSync('./', { withFileTypes: true }).forEach((p) => {
     }
     const student = [0, 0, 0, 0];
     result[name] = student;
+    problemMap[name] = [];
     fs.readdirSync(path).forEach((problemDir) => {
+        problemMap[name].push(problemDir);
         fs.readdirSync(path + '/' + problemDir).forEach((file) => {
             const ini = file.substring(file.length - 7, file.length - 5);
             ++student[studentMap[ini]];
@@ -45,7 +71,7 @@ fs.writeFileSync(output_file, '');
 const total = [0, 0, 0, 0];
 fs.appendFileSync(
     output_file,
-    '## Algorithm\n|    Algorithm    | 김현창 | 양유경 | 정민지 | 정현주 |\n| :-------------: | :----: | :----: | :----: | :----: |\n',
+    '## Counting\n|    Algorithm    | 김현창 | 양유경 | 정민지 | 정현주 |\n| :-------------: | :----: | :----: | :----: | :----: |\n',
     'utf-8'
 );
 
@@ -78,6 +104,13 @@ fs.appendFileSync(
         '**|\n\n',
     'utf-8'
 );
+
+fs.appendFileSync(output_file, '---\n');
+fs.appendFileSync(output_file, '## Problems');
+
+for (let alg in problemMap) {
+    fs.appendFileSync(output_file, makeProblemToggleHtml(alg));
+}
 
 console.log('solved ' + total + '!');
 console.log('saved successfully! ' + output_file);
