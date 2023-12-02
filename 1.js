@@ -25,16 +25,10 @@ function makeProblemToggleHtml(alg) {
     <ul>\n`;
 
     problemMap[alg].forEach((problem) => {
-        if (problem[0] === 'p') {
-            const problemNumber = problem.substring(1, problem.indexOf('_'));
-
-            tag += `        <li><a href="http://boj.kr/${problemNumber}">${problem.replace(
-                '_',
-                ' '
-            )}</a></li>\n`;
-        } else {
-            tag += `        <li>${problem}</li>\n`;
-        }
+        tag += `        <li><a href="${alg}/${problem}">${problem.replace(
+            '_',
+            ' '
+        )}</a></li>\n`;
     });
     tag += `    </ul>
 </div>
