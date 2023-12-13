@@ -1,16 +1,16 @@
 ## Counting
 |    Algorithm    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: |
-|BackTracking|4|3|4|3|
-|BFS_DFS|22|18|15|19|
+|BackTracking|4|4|4|4|
+|BFS_DFS|22|18|15|20|
 |BinarySearch|6|5|4|5|
-|Bruteforce|8|8|4|7|
+|Bruteforce|8|8|4|8|
 |DataStructure|8|6|4|8|
 |Dijkstra|7|5|3|5|
 |DivideAndConquer|3|3|2|2|
 |DynamicProgramming|20|17|14|20|
-|FloydWarshall|1|1|1|0|
-|Greedy|10|9|6|3|
+|FloydWarshall|1|1|1|1|
+|Greedy|10|9|6|9|
 |Implematation|14|8|4|11|
 |KMP|3|3|2|2|
 |LCA|5|2|0|3|
@@ -23,7 +23,7 @@
 |Trie|2|0|0|1|
 |TwoPointer|5|5|4|4|
 |UnionFind|1|0|0|1|
-| **합계** | **137**|**106**|**74**|**111**|
+| **합계** | **137**|**107**|**74**|**121**|
 
 ---
 ## Problems
