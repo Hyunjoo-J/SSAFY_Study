@@ -3,27 +3,28 @@
 | :-------------: | :----: | :----: | :----: | :----: |
 |BackTracking|4|4|4|4|
 |BFS_DFS|22|18|15|20|
-|BinarySearch|6|5|4|5|
-|Bruteforce|8|8|4|8|
-|DataStructure|8|6|4|8|
+|BinarySearch|7|5|4|5|
+|Bruteforce|9|8|4|8|
+|DataStructure|9|6|4|8|
 |Dijkstra|7|5|3|5|
-|DivideAndConquer|3|3|2|2|
+|DivideAndConquer|4|3|2|2|
 |DynamicProgramming|20|17|14|20|
 |FloydWarshall|1|1|1|1|
 |Greedy|10|9|6|9|
 |Implematation|14|8|4|11|
 |KMP|3|3|2|2|
 |LCA|5|2|0|3|
+|Math|1|0|0|0|
 |MST|2|2|2|2|
 |PrefixSum|3|3|3|3|
 |SegmentTree|5|3|0|3|
 |String|3|1|0|4|
 |TopologySort|3|3|2|3|
-|Tree|2|1|0|2|
+|Tree|3|1|0|2|
 |Trie|2|0|0|1|
-|TwoPointer|5|5|4|4|
+|TwoPointer|6|5|4|4|
 |UnionFind|1|0|0|1|
-| **합계** | **137**|**107**|**74**|**121**|
+| **합계** | **144**|**107**|**74**|**121**|
 
 ---
 ## Problems
@@ -74,6 +75,7 @@
 <div markdown="1">
     <ul>
         <li><a href="BinarySearch/p2110_공유기설치">p2110 공유기설치</a></li>
+        <li><a href="BinarySearch/p2467_용액">p2467 용액</a></li>
         <li><a href="BinarySearch/p2473_세용액">p2473 세용액</a></li>
         <li><a href="BinarySearch/p2512_예산">p2512 예산</a></li>
         <li><a href="BinarySearch/p2805_나무자르기">p2805 나무자르기</a></li>
@@ -94,6 +96,7 @@
         <li><a href="Bruteforce/p18429_근손실">p18429 근손실</a></li>
         <li><a href="Bruteforce/p20529_가장가까운세사람의심리적거리">p20529 가장가까운세사람의심리적거리</a></li>
         <li><a href="Bruteforce/p2304_창고다각형">p2304 창고다각형</a></li>
+        <li><a href="Bruteforce/p27172_수나누기게임">p27172 수나누기게임</a></li>
         <li><a href="Bruteforce/p3085_사탕게임">p3085 사탕게임</a></li>
     </ul>
 </div>
@@ -107,6 +110,7 @@
         <li><a href="DataStructure/p1202_보석도둑">p1202 보석도둑</a></li>
         <li><a href="DataStructure/p13335_트럭">p13335 트럭</a></li>
         <li><a href="DataStructure/p1406_에디터">p1406 에디터</a></li>
+        <li><a href="DataStructure/p1918_후위표기식">p1918 후위표기식</a></li>
         <li><a href="DataStructure/p1927_최소힙">p1927 최소힙</a></li>
         <li><a href="DataStructure/p1991_트리순회">p1991 트리순회</a></li>
         <li><a href="DataStructure/p23309_철도공사">p23309 철도공사</a></li>
@@ -135,6 +139,7 @@
 <div markdown="1">
     <ul>
         <li><a href="DivideAndConquer/p10830_행렬제곱">p10830 행렬제곱</a></li>
+        <li><a href="DivideAndConquer/p11444_피보나치수6">p11444 피보나치수6</a></li>
         <li><a href="DivideAndConquer/p1493_박스채우기">p1493 박스채우기</a></li>
         <li><a href="DivideAndConquer/p2630_색종이만들기">p2630 색종이만들기</a></li>
     </ul>
@@ -243,6 +248,15 @@
 </details>
 
 <details>
+<summary>Math</summary>
+<div markdown="1">
+    <ul>
+        <li><a href="Math/p2166_다각형의넓이">p2166 다각형의넓이</a></li>
+    </ul>
+</div>
+</details>
+
+<details>
 <summary>MST</summary>
 <div markdown="1">
     <ul>
@@ -303,6 +317,7 @@
 <summary>Tree</summary>
 <div markdown="1">
     <ul>
+        <li><a href="Tree/p1167_트리의지름">p1167 트리의지름</a></li>
         <li><a href="Tree/p1967_트리의지름">p1967 트리의지름</a></li>
         <li><a href="Tree/p5639_이진검색트리">p5639 이진검색트리</a></li>
     </ul>
@@ -323,6 +338,7 @@
 <summary>TwoPointer</summary>
 <div markdown="1">
     <ul>
+        <li><a href="TwoPointer/p1806_부분합">p1806 부분합</a></li>
         <li><a href="TwoPointer/p20922_겹치는건싫어">p20922 겹치는건싫어</a></li>
         <li><a href="TwoPointer/p22857_가장긴짝수연속한부분수열small">p22857 가장긴짝수연속한부분수열small</a></li>
         <li><a href="TwoPointer/p22862_가장긴짝수연속한부분수열large">p22862 가장긴짝수연속한부분수열large</a></li>
