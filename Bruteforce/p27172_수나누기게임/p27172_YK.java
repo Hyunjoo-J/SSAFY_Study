@@ -1,4 +1,4 @@
-package TwoPointer.p1806_부분합;
+package Bruteforce.p27172_수나누기게임;
 
 import java.io.*;
 import java.util.*;
