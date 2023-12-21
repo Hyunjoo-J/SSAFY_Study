@@ -1,41 +1,57 @@
 ## Algorithm
-|    Algorithm    | 김현창 | 양유경 | 정민지 | 정현주 |
+|    알고리즘    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: |
-|BackTracking|4|4|4|4|
-|BFS_DFS|22|18|15|20|
-|BinarySearch|7|6|4|6|
-|Bruteforce|9|9|4|9|
-|DataStructure|9|6|4|9|
-|Dijkstra|7|5|3|5|
-|DivideAndConquer|4|3|2|3|
-|DynamicProgramming|20|17|14|20|
-|FloydWarshall|1|1|1|1|
-|Greedy|10|9|6|9|
-|Implematation|14|8|4|11|
+|백트래킹|4|4|4|4|
+|그래프 탐색|22|18|15|20|
+|이분 탐색|7|6|4|6|
+|브루트포스|9|9|4|9|
+|자료구조|9|6|4|9|
+|다익스트라|7|5|3|5|
+|분할정복|4|3|2|3|
+|다이나믹 프로그래밍|20|17|14|20|
+|플로이드 워셜|1|1|1|1|
+|그리디|10|9|6|9|
+|구현|14|8|4|11|
 |KMP|3|3|2|2|
-|LCA|5|2|0|3|
-|Math|1|1|0|1|
-|MST|2|2|2|2|
-|PrefixSum|3|3|3|3|
-|SegmentTree|5|3|0|3|
-|String|3|1|0|4|
-|TopologySort|3|3|2|3|
-|Tree|3|1|0|3|
-|Trie|2|0|0|1|
-|TwoPointer|6|6|4|5|
-|UnionFind|1|0|0|1|
+|LCA(최소 공통 조상)|5|2|0|3|
+|수학|1|1|0|1|
+|MST(최소 스패닝 트리)|2|2|2|2|
+|누적합|3|3|3|3|
+|세그먼트 트리|5|3|0|3|
+|문자열|3|1|0|4|
+|위상정렬|3|3|2|3|
+|트리|3|1|0|3|
+|트라이|2|0|0|1|
+|투포인터|6|6|4|5|
+|유니온 파인드|1|0|0|1|
 | **합계** | **144**|**111**|**74**|**128**|
 
 ---
 ## Problems
-### BackTracking
+<details>
+<summary>
+
+#### 백트래킹
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/14888">14888    |     <a href="BackTracking/p14888_연산자끼워넣기">연산자끼워넣기    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/14889">14889    |     <a href="BackTracking/p14889_스타트와링크">스타트와링크    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/15661">15661    |     <a href="BackTracking/p15661_링크와스타트">링크와스타트    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/1759">1759    |     <a href="BackTracking/p1759_암호만들기">암호만들기    | ✔ |✔ |✔ |✔ |
-### BFS_DFS
+</details>
+
+<details>
+<summary>
+
+#### 그래프 탐색
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/1012">1012    |     <a href="BFS_DFS/p1012_유기농배추">유기농배추    | ✔ |✔ |✔ |✔ |
@@ -60,7 +76,16 @@
 |    <a href="http://boj.kr/2583">2583    |     <a href="BFS_DFS/p2583_영역구하기">영역구하기    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/2606">2606    |     <a href="BFS_DFS/p2606_바이러스">바이러스    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/2644">2644    |     <a href="BFS_DFS/p2644_촌수계산">촌수계산    | ✔ |✔ |✔ |✔ |
-### BinarySearch
+</details>
+
+<details>
+<summary>
+
+#### 이분 탐색
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/2110">2110    |     <a href="BinarySearch/p2110_공유기설치">공유기설치    | ✔ |✔ |✔ |✔ |
@@ -70,7 +95,16 @@
 |    <a href="http://boj.kr/2805">2805    |     <a href="BinarySearch/p2805_나무자르기">나무자르기    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/4001">4001    |     <a href="BinarySearch/p4001_미노타우르스미궁">미노타우르스미궁    | ✔ |❌ |❌ |❌ |
 |    <a href="http://boj.kr/7453">7453    |     <a href="BinarySearch/p7453_합이0인네정수">합이0인네정수    | ✔ |✔ |✔ |✔ |
-### Bruteforce
+</details>
+
+<details>
+<summary>
+
+#### 브루트포스
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/1107">1107    |     <a href="Bruteforce/p1107_리모컨">리모컨    | ✔ |✔ |❌ |✔ |
@@ -82,7 +116,16 @@
 |    <a href="http://boj.kr/2304">2304    |     <a href="Bruteforce/p2304_창고다각형">창고다각형    | ✔ |✔ |❌ |✔ |
 |    <a href="http://boj.kr/27172">27172    |     <a href="Bruteforce/p27172_수나누기게임">수나누기게임    | ✔ |✔ |❌ |✔ |
 |    <a href="http://boj.kr/3085">3085    |     <a href="Bruteforce/p3085_사탕게임">사탕게임    | ✔ |✔ |❌ |✔ |
-### DataStructure
+</details>
+
+<details>
+<summary>
+
+#### 자료구조
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/11286">11286    |     <a href="DataStructure/p11286_절댓값힙">절댓값힙    | ✔ |✔ |✔ |✔ |
@@ -94,7 +137,16 @@
 |    <a href="http://boj.kr/1991">1991    |     <a href="DataStructure/p1991_트리순회">트리순회    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/23309">23309    |     <a href="DataStructure/p23309_철도공사">철도공사    | ✔ |❌ |❌ |✔ |
 |    <a href="http://boj.kr/5397">5397    |     <a href="DataStructure/p5397_키로거">키로거    | ✔ |✔ |❌ |✔ |
-### Dijkstra
+</details>
+
+<details>
+<summary>
+
+#### 다익스트라
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/10282">10282    |     <a href="Dijkstra/p10282_해킹">해킹    | ✔ |✔ |✔ |✔ |
@@ -104,14 +156,32 @@
 |    <a href="http://boj.kr/17270">17270    |     <a href="Dijkstra/p17270_연예인은힘들어">연예인은힘들어    | ✔ |❌ |❌ |❌ |
 |    <a href="http://boj.kr/1753">1753    |     <a href="Dijkstra/p1753_최단경로">최단경로    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/9370">9370    |     <a href="Dijkstra/p9370_미확인도착지">미확인도착지    | ✔ |❌ |❌ |✔ |
-### DivideAndConquer
+</details>
+
+<details>
+<summary>
+
+#### 분할정복
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/10830">10830    |     <a href="DivideAndConquer/p10830_행렬제곱">행렬제곱    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/11444">11444    |     <a href="DivideAndConquer/p11444_피보나치수6">피보나치수6    | ✔ |❌ |❌ |✔ |
 |    <a href="http://boj.kr/1493">1493    |     <a href="DivideAndConquer/p1493_박스채우기">박스채우기    | ✔ |✔ |❌ |❌ |
 |    <a href="http://boj.kr/2630">2630    |     <a href="DivideAndConquer/p2630_색종이만들기">색종이만들기    | ✔ |✔ |✔ |✔ |
-### DynamicProgramming
+</details>
+
+<details>
+<summary>
+
+#### 다이나믹 프로그래밍
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/10844">10844    |     <a href="DynamicProgramming/p10844_쉬운계단수">쉬운계단수    | ✔ |✔ |❌ |✔ |
@@ -134,11 +204,29 @@
 |    <a href="http://boj.kr/7579">7579    |     <a href="DynamicProgramming/p7579_앱">앱    | ✔ |✔ |❌ |✔ |
 |    <a href="http://boj.kr/9095">9095    |     <a href="DynamicProgramming/p9095_123더하기">123더하기    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/9252">9252    |     <a href="DynamicProgramming/p9252_LCS2">LCS2    | ✔ |✔ |✔ |✔ |
-### FloydWarshall
+</details>
+
+<details>
+<summary>
+
+#### 플로이드 워셜
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/1389">1389    |     <a href="FloydWarshall/p1389_케빈베이컨의6단계법칙">케빈베이컨의6단계법칙    | ✔ |✔ |✔ |✔ |
-### Greedy
+</details>
+
+<details>
+<summary>
+
+#### 그리디
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/11000">11000    |     <a href="Greedy/p11000_강의실배정">강의실배정    | ✔ |✔ |✔ |✔ |
@@ -151,7 +239,16 @@
 |    <a href="http://boj.kr/1946">1946    |     <a href="Greedy/p1946_신입사원">신입사원    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/2138">2138    |     <a href="Greedy/p2138_전구와스위치">전구와스위치    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/2885">2885    |     <a href="Greedy/p2885_초콜릿식사">초콜릿식사    | ✔ |✔ |❌ |✔ |
-### Implematation
+</details>
+
+<details>
+<summary>
+
+#### 구현
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/12100">12100    |     <a href="Implematation/p12100_2048Easy">2048Easy    | ✔ |✔ |✔ |✔ |
@@ -168,13 +265,31 @@
 |    <a href="http://boj.kr/20058">20058    |     <a href="Implematation/p20058_마법사상어와파이어스톰">마법사상어와파이어스톰    | ✔ |❌ |❌ |❌ |
 |    <a href="http://boj.kr/23289">23289    |     <a href="Implematation/p23289_온풍기안녕">온풍기안녕    | ✔ |❌ |❌ |❌ |
 |    <a href="http://boj.kr/2632">2632    |     <a href="Implematation/p2632_피자판매">피자판매    | ✔ |❌ |❌ |✔ |
-### KMP
+</details>
+
+<details>
+<summary>
+
+#### KMP
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/11585">11585    |     <a href="KMP/p11585_속타는저녁메뉴">속타는저녁메뉴    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/1305">1305    |     <a href="KMP/p1305_광고">광고    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/7575">7575    |     <a href="KMP/p7575_바이러스">바이러스    | ✔ |✔ |❌ |❌ |
-### LCA
+</details>
+
+<details>
+<summary>
+
+#### LCA(최소 공통 조상)
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/11437">11437    |     <a href="LCA/p11437_LCA">LCA    | ✔ |✔ |❌ |✔ |
@@ -182,22 +297,58 @@
 |    <a href="http://boj.kr/15481">15481    |     <a href="LCA/p15481_그래프와MST">그래프와MST    | ✔ |❌ |❌ |❌ |
 |    <a href="http://boj.kr/1626">1626    |     <a href="LCA/p1626_두번째로작은스패닝트리">두번째로작은스패닝트리    | ✔ |❌ |❌ |❌ |
 |    <a href="http://boj.kr/3176">3176    |     <a href="LCA/p3176_도로네트워크">도로네트워크    | ✔ |❌ |❌ |✔ |
-### Math
+</details>
+
+<details>
+<summary>
+
+#### 수학
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/2166">2166    |     <a href="Math/p2166_다각형의넓이">다각형의넓이    | ✔ |✔ |❌ |✔ |
-### MST
+</details>
+
+<details>
+<summary>
+
+#### MST(최소 스패닝 트리)
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/14950">14950    |     <a href="MST/p14950_정복자">정복자    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/16398">16398    |     <a href="MST/p16398_행성연결">행성연결    | ✔ |✔ |✔ |✔ |
-### PrefixSum
+</details>
+
+<details>
+<summary>
+
+#### 누적합
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/14476">14476    |     <a href="PrefixSum/p14476_최대공약수하나빼기">최대공약수하나빼기    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/25682">25682    |     <a href="PrefixSum/p25682_체스판다시칠하기2">체스판다시칠하기2    | ✔ |✔ |✔ |✔ |
-|    프로그래머스LV3    |     파괴되지않은건물    | ✔ |✔ |✔ |✔ |
-### SegmentTree
+|    프로그래머스LV3    |     <a href="PrefixSum/프로그래머스LV3_파괴되지않은건물">파괴되지않은건물    | ✔ |✔ |✔ |✔ |
+</details>
+
+<details>
+<summary>
+
+#### 세그먼트 트리
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/10167">10167    |     <a href="SegmentTree/p10167_금광">금광    | ✔ |❌ |❌ |❌ |
@@ -205,31 +356,76 @@
 |    <a href="http://boj.kr/2243">2243    |     <a href="SegmentTree/p2243_사탕상자">사탕상자    | ✔ |✔ |❌ |✔ |
 |    <a href="http://boj.kr/2357">2357    |     <a href="SegmentTree/p2357_최소값과최댓값">최소값과최댓값    | ✔ |✔ |❌ |✔ |
 |    <a href="http://boj.kr/2517">2517    |     <a href="SegmentTree/p2517_달리기">달리기    | ✔ |✔ |❌ |✔ |
-### String
+</details>
+
+<details>
+<summary>
+
+#### 문자열
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/1294">1294    |     <a href="String/p1294_문자열장식">문자열장식    | ✔ |❌ |❌ |✔ |
 |    <a href="http://boj.kr/20920">20920    |     <a href="String/p20920_영단어암기는괴로워">영단어암기는괴로워    | ❌ |❌ |❌ |✔ |
 |    <a href="http://boj.kr/9177">9177    |     <a href="String/p9177_단어섞기">단어섞기    | ✔ |✔ |❌ |✔ |
 |    <a href="http://boj.kr/9935">9935    |     <a href="String/p9935_문자열폭발">문자열폭발    | ✔ |❌ |❌ |✔ |
-### TopologySort
+</details>
+
+<details>
+<summary>
+
+#### 위상정렬
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/2056">2056    |     <a href="TopologySort/p2056_작업">작업    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/2623">2623    |     <a href="TopologySort/p2623_음악프로그램">음악프로그램    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/5021">5021    |     <a href="TopologySort/p5021_왕위계승">왕위계승    | ✔ |✔ |❌ |✔ |
-### Tree
+</details>
+
+<details>
+<summary>
+
+#### 트리
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/1167">1167    |     <a href="Tree/p1167_트리의지름">트리의지름    | ✔ |❌ |❌ |✔ |
 |    <a href="http://boj.kr/1967">1967    |     <a href="Tree/p1967_트리의지름">트리의지름    | ✔ |✔ |❌ |✔ |
 |    <a href="http://boj.kr/5639">5639    |     <a href="Tree/p5639_이진검색트리">이진검색트리    | ✔ |❌ |❌ |✔ |
-### Trie
+</details>
+
+<details>
+<summary>
+
+#### 트라이
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/5670">5670    |     <a href="Trie/p5670_휴대폰자판">휴대폰자판    | ✔ |❌ |❌ |❌ |
 |    <a href="http://boj.kr/9202">9202    |     <a href="Trie/p9202_Boggle">Boggle    | ✔ |❌ |❌ |✔ |
-### TwoPointer
+</details>
+
+<details>
+<summary>
+
+#### 투포인터
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/1806">1806    |     <a href="TwoPointer/p1806_부분합">부분합    | ✔ |✔ |❌ |✔ |
@@ -238,7 +434,17 @@
 |    <a href="http://boj.kr/22862">22862    |     <a href="TwoPointer/p22862_가장긴짝수연속한부분수열large">가장긴짝수연속한부분수열large    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/2531">2531    |     <a href="TwoPointer/p2531_회전초밥">회전초밥    | ✔ |✔ |✔ |✔ |
 |    <a href="http://boj.kr/2842">2842    |     <a href="TwoPointer/p2842_집배원한상덕">집배원한상덕    | ✔ |✔ |❌ |❌ |
-### UnionFind
+</details>
+
+<details>
+<summary>
+
+#### 유니온 파인드
+
+</summary>
+
+    
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/1043">1043    |     <a href="UnionFind/p1043_거짓말">거짓말    | ✔ |❌ |❌ |✔ |
+</details>
