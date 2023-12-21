@@ -3,28 +3,28 @@
 | :-------------: | :----: | :----: | :----: | :----: |
 |BackTracking|4|4|4|4|
 |BFS_DFS|22|18|15|20|
-|BinarySearch|7|5|4|5|
-|Bruteforce|9|8|4|8|
-|DataStructure|9|6|4|8|
+|BinarySearch|7|6|4|6|
+|Bruteforce|9|9|4|9|
+|DataStructure|9|6|4|9|
 |Dijkstra|7|5|3|5|
-|DivideAndConquer|4|3|2|2|
+|DivideAndConquer|4|3|2|3|
 |DynamicProgramming|20|17|14|20|
 |FloydWarshall|1|1|1|1|
 |Greedy|10|9|6|9|
 |Implematation|14|8|4|11|
 |KMP|3|3|2|2|
 |LCA|5|2|0|3|
-|Math|1|0|0|0|
+|Math|1|1|0|1|
 |MST|2|2|2|2|
 |PrefixSum|3|3|3|3|
 |SegmentTree|5|3|0|3|
 |String|3|1|0|4|
 |TopologySort|3|3|2|3|
-|Tree|3|1|0|2|
+|Tree|3|1|0|3|
 |Trie|2|0|0|1|
-|TwoPointer|6|5|4|4|
+|TwoPointer|6|6|4|5|
 |UnionFind|1|0|0|1|
-| **합계** | **144**|**107**|**74**|**121**|
+| **합계** | **144**|**111**|**74**|**128**|
 
 ---
 ## Problems
