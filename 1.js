@@ -111,7 +111,7 @@ fs.appendFileSync(
     'utf-8'
 );
 
-fs.appendFileSync(output_file, '---\n');
+fs.appendFileSync(output_file, '<br>\n\n');
 fs.appendFileSync(output_file, '## Problems');
 
 function makeProblemTableHtml(alg) {
