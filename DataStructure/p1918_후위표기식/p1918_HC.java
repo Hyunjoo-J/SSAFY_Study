@@ -5,15 +5,8 @@ import java.util.*;
 
 public class p1918_HC {
 
-	private static Map<Character, Integer> priority = new HashMap<>();
-
 	public static void main(String[] args) throws Exception {
 	    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-
-		priority.put('+', 1);
-		priority.put('-', 1);
-		priority.put('*', 2);
-		priority.put('/', 2);
 
 		char[] expr = br.readLine().toCharArray();
 
