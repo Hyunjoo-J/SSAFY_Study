@@ -43,7 +43,7 @@ function checkCondition(p) {
     return true;
 }
 const result = {};
-const studentMap = { HC: 0, YK: 1, MJ: 2, HJ: 3 };
+const studentMap = { HC: 0, YK: 1, MJ: 2, HJ: 3, DH: 4 };
 const problemMap = {};
 
 fs.readdirSync('./', { withFileTypes: true }).forEach((p) => {
@@ -52,12 +52,12 @@ fs.readdirSync('./', { withFileTypes: true }).forEach((p) => {
     if (!checkCondition(p)) {
         return;
     }
-    const student = [0, 0, 0, 0];
+    const student = [0, 0, 0, 0, 0];
     result[alg] = student;
     problemMap[alg] = [];
     fs.readdirSync(path).forEach((problemDir) => {
         // problemMap[alg].push(problemDir);
-        const checker = [false, false, false, false];
+        const checker = [false, false, false, false, false];
         fs.readdirSync(path + '/' + problemDir).forEach((file) => {
             const ini = file.substring(file.length - 7, file.length - 5);
             ++student[studentMap[ini]];
@@ -74,15 +74,15 @@ if (!fs.existsSync(output_file)) {
 fs.writeFileSync(output_file, '');
 
 // // 백준
-const total = [0, 0, 0, 0];
+const total = [0, 0, 0, 0, 0];
 fs.appendFileSync(
     output_file,
-    '## Algorithm\n|    알고리즘    | 김현창 | 양유경 | 정민지 | 정현주 |\n| :-------------: | :----: | :----: | :----: | :----: |\n',
+    '## Algorithm\n|    알고리즘    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |\n| :-------------: | :----: | :----: | :----: | :----: | :----: |\n',
     'utf-8'
 );
 
 for (let alg in result) {
-    for (let i = 0; i < 4; ++i) total[i] += result[alg][i];
+    for (let i = 0; i < 5; ++i) total[i] += result[alg][i];
     temp =
         '|' +
         algMap[alg] +
@@ -94,20 +94,24 @@ for (let alg in result) {
         result[alg][2] +
         '|' +
         result[alg][3] +
+        '|' +
+        result[alg][4] +
         '|\n';
     fs.appendFileSync(output_file, temp, 'utf-8');
 }
 fs.appendFileSync(
     output_file,
     '| **합계** | **' +
-        total[0] +
-        '**|**' +
-        total[1] +
-        '**|**' +
-        total[2] +
-        '**|**' +
-        total[3] +
-        '**|\n\n',
+    total[0] +
+    '**|**' +
+    total[1] +
+    '**|**' +
+    total[2] +
+    '**|**' +
+    total[3] +
+    '**|**' +
+    total[4] +
+    '**|\n\n',
     'utf-8'
 );
 
@@ -126,7 +130,7 @@ function makeProblemTableHtml(alg) {
     `;
     // tag += '\n### ' + algMap[alg];
     tag +=
-        '\n|    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 |\n| :-------------: | :----: | :----: | :----: | :----: | :----: |';
+        '\n|    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |\n| :-------------: | :----: | :----: | :----: | :----: | :----: | :----: |';
     for (const problem in problemMap[alg]) {
         const splited = problem.split('_');
 
@@ -138,7 +142,7 @@ function makeProblemTableHtml(alg) {
             tag += `\n|    ${splited[0]}    | `;
             tag += `    <a href="${alg}/${problem}">${splited[1]}    | `;
         }
-        for (let i = 0; i < 4; ++i) {
+        for (let i = 0; i < 5; ++i) {
             tag += `${problemMap[alg][problem][i] ? checkMark : uncheckMark} |`;
         }
     }
