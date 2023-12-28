@@ -191,7 +191,7 @@
 |    <a href="http://boj.kr/11048">11048    |     <a href="DynamicProgramming/p11048_이동하기">이동하기    | ✔ |✔ |✔ |✔ |❌ |
 |    <a href="http://boj.kr/11049">11049    |     <a href="DynamicProgramming/p11049_행렬곱셈순서">행렬곱셈순서    | ✔ |❌ |❌ |✔ |❌ |
 |    <a href="http://boj.kr/11060">11060    |     <a href="DynamicProgramming/p11060_점프점프">점프점프    | ✔ |✔ |✔ |✔ |❌ |
-|    P11066    |     <a href="DynamicProgramming/P11066_파일합치기">파일합치기    | ✔ |❌ |❌ |❌ |❌ |
+|    <a href="http://boj.kr/11066">11066    |     <a href="DynamicProgramming/p11066_파일합치기">파일합치기    | ✔ |❌ |❌ |❌ |❌ |
 |    <a href="http://boj.kr/1149">1149    |     <a href="DynamicProgramming/p1149_RGB거리">RGB거리    | ✔ |✔ |✔ |✔ |❌ |
 |    <a href="http://boj.kr/12920">12920    |     <a href="DynamicProgramming/p12920_평범한배낭2">평범한배낭2    | ✔ |✔ |❌ |✔ |❌ |
 |    <a href="http://boj.kr/14501">14501    |     <a href="DynamicProgramming/p14501_퇴사">퇴사    | ✔ |✔ |✔ |✔ |❌ |
