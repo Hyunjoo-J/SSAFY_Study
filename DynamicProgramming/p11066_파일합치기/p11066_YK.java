@@ -24,14 +24,14 @@ public class p11066_YK {
                 sum[i] = sum[i - 1] + nums[i];
             }
 
-//            for (int i = 0; i < N; ++i) {
-//                Arrays.fill(dp[i], Integer.MAX_VALUE >> 1);
-//            }
+            for (int i = 0; i < N; ++i) {
+                Arrays.fill(dp[i], Integer.MAX_VALUE >> 1);
+                dp[i][i] = 0;
+            }
 
             for (int k = 1; k < N; ++k) { // 몇 개 간격으로 합칠지
                 for (int i = 0; i < N - k; ++i) {
                     int j = i + k;
-                    dp[i][j] = Integer.MAX_VALUE;
                     for (int m = i; m < j; ++m) {
                         dp[i][j] = Math.min(dp[i][j], dp[i][m] + dp[m + 1][j] + sum[j] - sum[i] + nums[i]);
                     }
