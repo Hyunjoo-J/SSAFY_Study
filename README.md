@@ -2,15 +2,15 @@
 |    알고리즘    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |백트래킹|4|4|4|4|0|
-|그래프 탐색|24|19|15|20|0|
+|그래프 탐색|24|20|15|22|0|
 |이분 탐색|7|6|4|6|0|
 |브루트포스|9|9|4|9|0|
 |자료구조|9|6|4|9|0|
 |다익스트라|7|5|3|5|0|
 |분할정복|4|3|2|3|0|
-|다이나믹 프로그래밍|22|17|14|20|0|
+|다이나믹 프로그래밍|22|19|14|22|0|
 |플로이드 워셜|1|1|1|1|0|
-|그리디|11|10|6|9|0|
+|그리디|11|10|6|10|0|
 |구현|14|8|4|11|0|
 |KMP|3|3|2|2|0|
 |LCA(최소 공통 조상)|5|2|0|3|0|
@@ -19,12 +19,12 @@
 |누적합|3|3|3|3|0|
 |세그먼트 트리|5|3|0|3|1|
 |문자열|4|1|0|4|0|
-|위상정렬|4|4|2|3|0|
+|위상정렬|4|4|2|4|0|
 |트리|3|1|0|3|0|
 |트라이|2|0|0|1|0|
 |투포인터|6|6|4|5|0|
-|유니온 파인드|2|0|0|1|0|
-| **합계** | **152**|**114**|**74**|**128**|**1**|
+|유니온 파인드|2|1|0|2|0|
+| **합계** | **152**|**118**|**74**|**135**|**1**|
 
 <br>
 
@@ -56,7 +56,7 @@
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/1012">1012    |     <a href="BFS_DFS/p1012_유기농배추">유기농배추    | ✔ |✔ |✔ |✔ |❌ |
-|    <a href="http://boj.kr/11724">11724    |     <a href="BFS_DFS/p11724_연결요소의개수">연결요소의개수    | ✔ |❌ |❌ |❌ |❌ |
+|    <a href="http://boj.kr/11724">11724    |     <a href="BFS_DFS/p11724_연결요소의개수">연결요소의개수    | ✔ |✔ |❌ |✔ |❌ |
 |    <a href="http://boj.kr/1189">1189    |     <a href="BFS_DFS/p1189_컴백홈">컴백홈    | ✔ |✔ |✔ |✔ |❌ |
 |    <a href="http://boj.kr/12851">12851    |     <a href="BFS_DFS/p12851_숨바꼭질2">숨바꼭질2    | ✔ |✔ |✔ |✔ |❌ |
 |    <a href="http://boj.kr/13549">13549    |     <a href="BFS_DFS/p13549_숨바꼭질3">숨바꼭질3    | ✔ |✔ |✔ |✔ |❌ |
@@ -78,7 +78,7 @@
 |    <a href="http://boj.kr/2583">2583    |     <a href="BFS_DFS/p2583_영역구하기">영역구하기    | ✔ |✔ |✔ |✔ |❌ |
 |    <a href="http://boj.kr/2606">2606    |     <a href="BFS_DFS/p2606_바이러스">바이러스    | ✔ |✔ |✔ |✔ |❌ |
 |    <a href="http://boj.kr/2644">2644    |     <a href="BFS_DFS/p2644_촌수계산">촌수계산    | ✔ |✔ |✔ |✔ |❌ |
-|    <a href="http://boj.kr/7562">7562    |     <a href="BFS_DFS/p7562_나이트의이동">나이트의이동    | ✔ |✔ |❌ |❌ |❌ |
+|    <a href="http://boj.kr/7562">7562    |     <a href="BFS_DFS/p7562_나이트의이동">나이트의이동    | ✔ |✔ |❌ |✔ |❌ |
 </details>
 
 <details>
@@ -191,7 +191,7 @@
 |    <a href="http://boj.kr/11048">11048    |     <a href="DynamicProgramming/p11048_이동하기">이동하기    | ✔ |✔ |✔ |✔ |❌ |
 |    <a href="http://boj.kr/11049">11049    |     <a href="DynamicProgramming/p11049_행렬곱셈순서">행렬곱셈순서    | ✔ |❌ |❌ |✔ |❌ |
 |    <a href="http://boj.kr/11060">11060    |     <a href="DynamicProgramming/p11060_점프점프">점프점프    | ✔ |✔ |✔ |✔ |❌ |
-|    <a href="http://boj.kr/11066">11066    |     <a href="DynamicProgramming/p11066_파일합치기">파일합치기    | ✔ |❌ |❌ |❌ |❌ |
+|    <a href="http://boj.kr/11066">11066    |     <a href="DynamicProgramming/p11066_파일합치기">파일합치기    | ✔ |✔ |❌ |✔ |❌ |
 |    <a href="http://boj.kr/1149">1149    |     <a href="DynamicProgramming/p1149_RGB거리">RGB거리    | ✔ |✔ |✔ |✔ |❌ |
 |    <a href="http://boj.kr/12920">12920    |     <a href="DynamicProgramming/p12920_평범한배낭2">평범한배낭2    | ✔ |✔ |❌ |✔ |❌ |
 |    <a href="http://boj.kr/14501">14501    |     <a href="DynamicProgramming/p14501_퇴사">퇴사    | ✔ |✔ |✔ |✔ |❌ |
@@ -203,7 +203,7 @@
 |    <a href="http://boj.kr/20303">20303    |     <a href="DynamicProgramming/p20303_할로윈의양아치">할로윈의양아치    | ✔ |✔ |❌ |✔ |❌ |
 |    <a href="http://boj.kr/2293">2293    |     <a href="DynamicProgramming/p2293_동전1">동전1    | ✔ |❌ |✔ |✔ |❌ |
 |    <a href="http://boj.kr/2302">2302    |     <a href="DynamicProgramming/p2302_극장좌석">극장좌석    | ✔ |✔ |❌ |✔ |❌ |
-|    <a href="http://boj.kr/2342">2342    |     <a href="DynamicProgramming/p2342_DanceDanceRevolution">DanceDanceRevolution    | ✔ |❌ |❌ |❌ |❌ |
+|    <a href="http://boj.kr/2342">2342    |     <a href="DynamicProgramming/p2342_DanceDanceRevolution">DanceDanceRevolution    | ✔ |✔ |❌ |✔ |❌ |
 |    <a href="http://boj.kr/2533">2533    |     <a href="DynamicProgramming/p2533_사회망서비스">사회망서비스    | ✔ |✔ |✔ |✔ |❌ |
 |    <a href="http://boj.kr/2579">2579    |     <a href="DynamicProgramming/p2579_계단오르기">계단오르기    | ✔ |✔ |✔ |✔ |❌ |
 |    <a href="http://boj.kr/7579">7579    |     <a href="DynamicProgramming/p7579_앱">앱    | ✔ |✔ |❌ |✔ |❌ |
@@ -243,7 +243,7 @@
 |    <a href="http://boj.kr/1715">1715    |     <a href="Greedy/p1715_카드정렬하기">카드정렬하기    | ✔ |✔ |✔ |✔ |❌ |
 |    <a href="http://boj.kr/1946">1946    |     <a href="Greedy/p1946_신입사원">신입사원    | ✔ |✔ |✔ |✔ |❌ |
 |    <a href="http://boj.kr/2138">2138    |     <a href="Greedy/p2138_전구와스위치">전구와스위치    | ✔ |✔ |✔ |✔ |❌ |
-|    <a href="http://boj.kr/2785">2785    |     <a href="Greedy/p2785_체인">체인    | ✔ |✔ |❌ |❌ |❌ |
+|    <a href="http://boj.kr/2785">2785    |     <a href="Greedy/p2785_체인">체인    | ✔ |✔ |❌ |✔ |❌ |
 |    <a href="http://boj.kr/2885">2885    |     <a href="Greedy/p2885_초콜릿식사">초콜릿식사    | ✔ |✔ |❌ |✔ |❌ |
 </details>
 
@@ -390,7 +390,7 @@
     
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: | :----: |
-|    <a href="http://boj.kr/1005">1005    |     <a href="TopologySort/p1005_ACMCraft">ACMCraft    | ✔ |✔ |❌ |❌ |❌ |
+|    <a href="http://boj.kr/1005">1005    |     <a href="TopologySort/p1005_ACMCraft">ACMCraft    | ✔ |✔ |❌ |✔ |❌ |
 |    <a href="http://boj.kr/2056">2056    |     <a href="TopologySort/p2056_작업">작업    | ✔ |✔ |✔ |✔ |❌ |
 |    <a href="http://boj.kr/2623">2623    |     <a href="TopologySort/p2623_음악프로그램">음악프로그램    | ✔ |✔ |✔ |✔ |❌ |
 |    <a href="http://boj.kr/5021">5021    |     <a href="TopologySort/p5021_왕위계승">왕위계승    | ✔ |✔ |❌ |✔ |❌ |
@@ -454,5 +454,5 @@
 |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: | :----: |
 |    <a href="http://boj.kr/1043">1043    |     <a href="UnionFind/p1043_거짓말">거짓말    | ✔ |❌ |❌ |✔ |❌ |
-|    <a href="http://boj.kr/20040">20040    |     <a href="UnionFind/p20040_사이클게임">사이클게임    | ✔ |❌ |❌ |❌ |❌ |
+|    <a href="http://boj.kr/20040">20040    |     <a href="UnionFind/p20040_사이클게임">사이클게임    | ✔ |✔ |❌ |✔ |❌ |
 </details>
