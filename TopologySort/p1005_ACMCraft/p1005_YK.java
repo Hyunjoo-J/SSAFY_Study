@@ -7,7 +7,7 @@ public class p1005_YK {
     static int[] times = new int[1000];
     static int[] endTimes = new int[1000];
     static int[] indegree = new int[1000];
-    static ArrayList<Integer>[] priors = new ArrayList[1000];
+    static List<Integer>[] list = new ArrayList[1000];
     static int N, K, W;
     public static void main(String[] args) throws Exception {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -22,7 +22,7 @@ public class p1005_YK {
             Arrays.fill(indegree, 0);
 
             for (int i = 0; i < N; ++i) {
-                priors[i] = new ArrayList<>();
+                list[i] = new ArrayList<>();
             }
 
             st = new StringTokenizer(br.readLine());
@@ -36,7 +36,7 @@ public class p1005_YK {
                 int from = Integer.parseInt(st.nextToken()) - 1;
                 int to = Integer.parseInt(st.nextToken()) - 1;
                 ++indegree[to];
-                priors[from].add(to);
+                list[from].add(to);
             }
 
             W = Integer.parseInt(br.readLine()) - 1;
@@ -57,7 +57,7 @@ public class p1005_YK {
             int now = q.poll();
             if (now == W) return endTimes[W];
 
-            for (int k : priors[now]) {
+            for (int k : list[now]) {
                 endTimes[k] = Math.max(endTimes[k], endTimes[now] + times[k]);
                 if (--indegree[k] == 0) q.offer(k);
             }
