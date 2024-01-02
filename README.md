@@ -2,11 +2,11 @@
 |    알고리즘    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |백트래킹|4|4|4|4|0|
-|그래프 탐색|25|20|15|22|0|
+|그래프 탐색|25|21|15|22|0|
 |이분 탐색|7|6|4|6|0|
 |브루트포스|9|9|4|9|0|
 |자료구조|10|6|4|9|0|
-|다익스트라|9|5|3|5|0|
+|다익스트라|9|6|3|5|0|
 |분할정복|4|3|2|3|0|
 |다이나믹 프로그래밍|22|19|14|22|0|
 |플로이드 워셜|1|1|1|1|0|
@@ -24,7 +24,7 @@
 |트라이|2|0|0|1|0|
 |투포인터|6|6|4|5|0|
 |유니온 파인드|2|1|0|2|0|
-| **합계** | **159**|**118**|**74**|**135**|**1**|
+| **합계** | **159**|**120**|**74**|**135**|**1**|
 
 <br>
 
@@ -79,7 +79,7 @@
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    |     <a href="http://boj.kr/2606">2606    |     <a href="BFS_DFS/p2606_바이러스">바이러스    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2644">2644    |     <a href="BFS_DFS/p2644_촌수계산">촌수계산    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/7562">7562    |     <a href="BFS_DFS/p7562_나이트의이동">나이트의 이동    | ✔ |✔ |❌ |✔ |❌ |
-|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    |     <a href="http://boj.kr/9328">9328    |     <a href="BFS_DFS/p9328_열쇠">열쇠    | ✔ |❌ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    |     <a href="http://boj.kr/9328">9328    |     <a href="BFS_DFS/p9328_열쇠">열쇠    | ✔ |✔ |❌ |❌ |❌ |
 </details>
 
 <details>
@@ -158,7 +158,7 @@
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/11779">11779    |     <a href="Dijkstra/p11779_최소비용구하기2">최소비용 구하기 2    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/1238">1238    |     <a href="Dijkstra/p1238_파티">파티    | ✔ |✔ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/1446">1446    |     <a href="Dijkstra/p1446_지름길">지름길    | ✔ |✔ |❌ |✔ |❌ |
-|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    |     <a href="http://boj.kr/16118">16118    |     <a href="Dijkstra/p16118_달빛여우">달빛 여우    | ✔ |❌ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    |     <a href="http://boj.kr/16118">16118    |     <a href="Dijkstra/p16118_달빛여우">달빛 여우    | ✔ |✔ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/17270">17270    |     <a href="Dijkstra/p17270_연예인은힘들어">연예인은 힘들어    | ✔ |❌ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/1753">1753    |     <a href="Dijkstra/p1753_최단경로">최단경로    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/1916">1916    |     <a href="Dijkstra/p1916_최소비용구하기">최소비용 구하기    | ✔ |❌ |❌ |❌ |❌ |
@@ -270,7 +270,7 @@
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/17780">17780    |     <a href="Implematation/p17780_새로운게임">새로운 게임    | ✔ |❌ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    |     <a href="http://boj.kr/1800">1800    |     <a href="Implematation/p1800_인터넷설치">인터넷 설치    | ✔ |❌ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/19236">19236    |     <a href="Implematation/p19236_청소년상어">청소년 상어    | ✔ |❌ |❌ |✔ |❌ |
-|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/20006">20006    |     <a href="Implematation/p20006_랭킹전대기열">랭킹전 대기열    | ✔ |✔ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/20006">20006    |     <a href="Implematation/p20006_랭킹전대기열">랭킹전 대기열    | ✔ |✔ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/20056">20056    |     <a href="Implematation/p20056_마법사상어와파이어볼">마법사 상어와 파이어볼    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/20057">20057    |     <a href="Implematation/p20057_마법사상어와토네이도">마법사 상어와 토네이도    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/20058">20058    |     <a href="Implematation/p20058_마법사상어와파이어스톰">마법사 상어와 파이어스톰    | ✔ |❌ |❌ |❌ |❌ |
