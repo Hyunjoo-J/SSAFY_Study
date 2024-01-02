@@ -69,12 +69,8 @@ public class p1647_YK {
             Edge now = pq.poll();
             if (union(now.from, now.to)) {
                 result += now.weight;
-                if (max < now.weight) {
-                    max = now.weight;
-                }
-                if (++cnt == N - 1) {
-                    break;
-                }
+                max = Math.max(max, now.weight);
+                if (++cnt == N - 1) break;
             }
         }
 
