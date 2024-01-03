@@ -2,29 +2,29 @@
 |    알고리즘    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |백트래킹|4|4|4|4|0|
-|그래프 탐색|25|21|15|22|0|
+|그래프 탐색|25|21|15|23|0|
 |이분 탐색|7|6|4|6|0|
 |브루트포스|9|9|4|9|0|
-|자료구조|10|6|4|9|0|
-|다익스트라|9|6|3|5|0|
+|자료구조|10|7|4|10|0|
+|다익스트라|9|7|3|7|0|
 |분할정복|4|3|2|3|0|
 |다이나믹 프로그래밍|22|19|14|22|0|
 |플로이드 워셜|1|1|1|1|0|
-|그리디|12|10|6|10|0|
+|그리디|12|11|6|11|0|
 |구현|14|8|4|11|0|
 |KMP|3|3|2|2|0|
 |LCA(최소 공통 조상)|5|2|0|3|0|
 |수학|1|1|0|1|0|
-|MST(최소 스패닝 트리)|3|2|2|2|0|
+|MST(최소 스패닝 트리)|3|3|2|3|0|
 |누적합|3|3|3|3|0|
 |세그먼트 트리|5|3|0|3|1|
 |문자열|4|1|0|4|0|
-|위상정렬|5|4|2|4|0|
+|위상정렬|5|5|2|5|0|
 |트리|3|1|0|3|0|
 |트라이|2|0|0|1|0|
 |투포인터|6|6|4|5|0|
 |유니온 파인드|2|1|0|2|0|
-| **합계** | **159**|**120**|**74**|**135**|**1**|
+| **합계** | **159**|**125**|**74**|**142**|**1**|
 
 <br>
 
@@ -79,7 +79,7 @@
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    |     <a href="http://boj.kr/2606">2606    |     <a href="BFS_DFS/p2606_바이러스">바이러스    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2644">2644    |     <a href="BFS_DFS/p2644_촌수계산">촌수계산    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/7562">7562    |     <a href="BFS_DFS/p7562_나이트의이동">나이트의 이동    | ✔ |✔ |❌ |✔ |❌ |
-|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    |     <a href="http://boj.kr/9328">9328    |     <a href="BFS_DFS/p9328_열쇠">열쇠    | ✔ |✔ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    |     <a href="http://boj.kr/9328">9328    |     <a href="BFS_DFS/p9328_열쇠">열쇠    | ✔ |✔ |❌ |✔ |❌ |
 </details>
 
 <details>
@@ -136,7 +136,7 @@
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/1202">1202    |     <a href="DataStructure/p1202_보석도둑">보석 도둑    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/13335">13335    |     <a href="DataStructure/p13335_트럭">트럭    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/1406">1406    |     <a href="DataStructure/p1406_에디터">에디터    | ✔ |❌ |❌ |✔ |❌ |
-|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/1874">1874    |     <a href="DataStructure/p1874_스택수열">스택 수열    | ✔ |❌ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/1874">1874    |     <a href="DataStructure/p1874_스택수열">스택 수열    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/1918">1918    |     <a href="DataStructure/p1918_후위표기식">후위 표기식    | ✔ |❌ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/1927">1927    |     <a href="DataStructure/p1927_최소힙">최소 힙    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/1991">1991    |     <a href="DataStructure/p1991_트리순회">트리 순회    | ✔ |✔ |✔ |✔ |❌ |
@@ -158,10 +158,10 @@
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/11779">11779    |     <a href="Dijkstra/p11779_최소비용구하기2">최소비용 구하기 2    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/1238">1238    |     <a href="Dijkstra/p1238_파티">파티    | ✔ |✔ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/1446">1446    |     <a href="Dijkstra/p1446_지름길">지름길    | ✔ |✔ |❌ |✔ |❌ |
-|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    |     <a href="http://boj.kr/16118">16118    |     <a href="Dijkstra/p16118_달빛여우">달빛 여우    | ✔ |✔ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    |     <a href="http://boj.kr/16118">16118    |     <a href="Dijkstra/p16118_달빛여우">달빛 여우    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/17270">17270    |     <a href="Dijkstra/p17270_연예인은힘들어">연예인은 힘들어    | ✔ |❌ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/1753">1753    |     <a href="Dijkstra/p1753_최단경로">최단경로    | ✔ |✔ |✔ |✔ |❌ |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/1916">1916    |     <a href="Dijkstra/p1916_최소비용구하기">최소비용 구하기    | ✔ |❌ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/1916">1916    |     <a href="Dijkstra/p1916_최소비용구하기">최소비용 구하기    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/9370">9370    |     <a href="Dijkstra/p9370_미확인도착지">미확인 도착지    | ✔ |❌ |❌ |✔ |❌ |
 </details>
 
@@ -246,7 +246,7 @@
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    |     <a href="http://boj.kr/1700">1700    |     <a href="Greedy/p1700_멀티탭스케줄링">멀티탭 스케줄링    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/1715">1715    |     <a href="Greedy/p1715_카드정렬하기">카드 정렬하기    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/1946">1946    |     <a href="Greedy/p1946_신입사원">신입 사원    | ✔ |✔ |✔ |✔ |❌ |
-|    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    |     <a href="http://boj.kr/20300">20300    |     <a href="Greedy/p20300_서강근육맨">서강근육맨    | ✔ |❌ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    |     <a href="http://boj.kr/20300">20300    |     <a href="Greedy/p20300_서강근육맨">서강근육맨    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/2138">2138    |     <a href="Greedy/p2138_전구와스위치">전구와 스위치    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2785">2785    |     <a href="Greedy/p2785_체인">체인    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2885">2885    |     <a href="Greedy/p2885_초콜릿식사">초콜릿 식사    | ✔ |✔ |❌ |✔ |❌ |
@@ -335,7 +335,7 @@
 | :-------------: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/14950">14950    |     <a href="MST/p14950_정복자">정복자    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/16398">16398    |     <a href="MST/p16398_행성연결">행성 연결    | ✔ |✔ |✔ |✔ |❌ |
-|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/1647">1647    |     <a href="MST/p1647_도시분할계획">도시 분할 계획    | ✔ |❌ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/1647">1647    |     <a href="MST/p1647_도시분할계획">도시 분할 계획    | ✔ |✔ |❌ |✔ |❌ |
 </details>
 
 <details>
@@ -397,7 +397,7 @@
 |    티어   |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/1005">1005    |     <a href="TopologySort/p1005_ACMCraft">ACM Craft    | ✔ |✔ |❌ |✔ |❌ |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/14567">14567    |     <a href="TopologySort/p14567_선수과목">선수과목 (Prerequisite)    | ✔ |❌ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/14567">14567    |     <a href="TopologySort/p14567_선수과목">선수과목 (Prerequisite)    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/2056">2056    |     <a href="TopologySort/p2056_작업">작업    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/2623">2623    |     <a href="TopologySort/p2623_음악프로그램">음악프로그램    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/5021">5021    |     <a href="TopologySort/p5021_왕위계승">왕위 계승    | ✔ |✔ |❌ |✔ |❌ |
