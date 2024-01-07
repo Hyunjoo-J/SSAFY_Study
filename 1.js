@@ -8,6 +8,7 @@ const algMap = {
     BackTracking: '백트래킹',
     BFS_DFS: '그래프 탐색',
     BinarySearch: '이분 탐색',
+    Bitmasking: '비트마스킹',
     Bruteforce: '브루트포스',
     DataStructure: '자료구조',
     Dijkstra: '다익스트라',
