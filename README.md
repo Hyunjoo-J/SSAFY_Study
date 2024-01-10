@@ -4,13 +4,13 @@
 |백트래킹|4|4|4|4|0|
 |그래프 탐색|25|21|15|23|0|
 |이분 탐색|7|6|4|6|0|
-|비트마스킹|1|0|0|0|0|
-|브루트포스|11|9|4|9|0|
+|비트마스킹|1|1|0|0|0|
+|브루트포스|11|11|4|9|0|
 |자료구조|10|7|4|10|0|
 |다익스트라|10|7|3|7|0|
 |분할정복|4|3|2|3|0|
 |다이나믹 프로그래밍|22|19|14|22|0|
-|플로이드 워셜|2|1|1|1|0|
+|플로이드 워셜|2|2|1|1|0|
 |그리디|12|11|6|11|0|
 |구현|14|8|4|11|0|
 |KMP|3|3|2|2|0|
@@ -25,7 +25,7 @@
 |트라이|2|0|0|1|0|
 |투포인터|6|6|4|5|0|
 |유니온 파인드|2|1|0|2|0|
-| **합계** | **166**|**125**|**74**|**142**|**1**|
+| **합계** | **166**|**129**|**74**|**142**|**1**|
 
 <br>
 
@@ -112,7 +112,7 @@
     
 |    티어   |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/15787">15787    |     <a href="Bitmasking/p15787_기차가어둠을헤치고은하수를">기차가 어둠을 헤치고 은하수를    | ✔ |❌ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/15787">15787    |     <a href="Bitmasking/p15787_기차가어둠을헤치고은하수를">기차가 어둠을 헤치고 은하수를    | ✔ |✔ |❌ |❌ |❌ |
 </details>
 
 <details>
@@ -127,10 +127,10 @@
 | :-------------: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/1107">1107    |     <a href="Bruteforce/p1107_리모컨">리모컨    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/1182">1182    |     <a href="Bruteforce/p1182_부분수열의합">부분수열의 합    | ✔ |✔ |✔ |✔ |❌ |
-|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/14719">14719    |     <a href="Bruteforce/p14719_빗물">빗물    | ✔ |❌ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/14719">14719    |     <a href="Bruteforce/p14719_빗물">빗물    | ✔ |✔ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/15683">15683    |     <a href="Bruteforce/p15683_감시">감시    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/1747">1747    |     <a href="Bruteforce/p1747_소수and팰린드롬">소수&팰린드롬    | ✔ |✔ |✔ |✔ |❌ |
-|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/18111">18111    |     <a href="Bruteforce/p18111_마인크래프트">마인크래프트    | ✔ |❌ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/18111">18111    |     <a href="Bruteforce/p18111_마인크래프트">마인크래프트    | ✔ |✔ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    |     <a href="http://boj.kr/18429">18429    |     <a href="Bruteforce/p18429_근손실">근손실    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/20529">20529    |     <a href="Bruteforce/p20529_가장가까운세사람의심리적거리">가장 가까운 세 사람의 심리적 거리    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2304">2304    |     <a href="Bruteforce/p2304_창고다각형">창고 다각형    | ✔ |✔ |❌ |✔ |❌ |
@@ -243,7 +243,7 @@
 |    티어   |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/1389">1389    |     <a href="FloydWarshall/p1389_케빈베이컨의6단계법칙">케빈 베이컨의 6단계 법칙    | ✔ |✔ |✔ |✔ |❌ |
-|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/1719">1719    |     <a href="FloydWarshall/p1719_택배">택배    | ✔ |❌ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/1719">1719    |     <a href="FloydWarshall/p1719_택배">택배    | ✔ |✔ |❌ |❌ |❌ |
 </details>
 
 <details>
@@ -351,7 +351,7 @@
     
 |    티어   |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/10423">10423    |     <a href="MST/p10423_전기가부족해">전기가 부족해    | ✔ |❌ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/10423">10423    |     <a href="MST/p10423_전기가부족해">전기가 부족해    | ✔ |❌ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/14950">14950    |     <a href="MST/p14950_정복자">정복자    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/16398">16398    |     <a href="MST/p16398_행성연결">행성 연결    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/1647">1647    |     <a href="MST/p1647_도시분할계획">도시 분할 계획    | ✔ |✔ |❌ |✔ |❌ |
