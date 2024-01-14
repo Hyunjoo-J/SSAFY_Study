@@ -16,7 +16,7 @@
 |KMP|3|3|2|2|0|
 |LCA(최소 공통 조상)|5|2|0|3|0|
 |수학|1|1|0|1|0|
-|MST(최소 스패닝 트리)|5|3|2|3|0|
+|MST(최소 스패닝 트리)|5|5|2|3|0|
 |누적합|3|3|3|3|0|
 |세그먼트 트리|5|3|0|3|1|
 |문자열|4|1|0|4|0|
@@ -25,7 +25,7 @@
 |트라이|2|0|0|1|0|
 |투포인터|6|6|4|5|0|
 |유니온 파인드|2|1|0|2|0|
-| **합계** | **166**|**129**|**74**|**142**|**1**|
+| **합계** | **166**|**131**|**74**|**142**|**1**|
 
 <br>
 
@@ -351,11 +351,11 @@
     
 |    티어   |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/10423">10423    |     <a href="MST/p10423_전기가부족해">전기가 부족해    | ✔ |❌ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/10423">10423    |     <a href="MST/p10423_전기가부족해">전기가 부족해    | ✔ |✔ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/14950">14950    |     <a href="MST/p14950_정복자">정복자    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/16398">16398    |     <a href="MST/p16398_행성연결">행성 연결    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/1647">1647    |     <a href="MST/p1647_도시분할계획">도시 분할 계획    | ✔ |✔ |❌ |✔ |❌ |
-|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/23743">23743    |     <a href="MST/p23743_방탈출">방탈출    | ✔ |❌ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/23743">23743    |     <a href="MST/p23743_방탈출">방탈출    | ✔ |✔ |❌ |❌ |❌ |
 </details>
 
 <details>
