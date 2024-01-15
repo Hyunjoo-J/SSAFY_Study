@@ -1,7 +1,4 @@
-package PrefixSum.프로그래머스LV3_파괴되지않은건물;
-
-import java.util.*;
-import java.io.*;
+package Programmers.LV3_92344_파괴되지않은건물;
 
 class Solution_MJ {
 

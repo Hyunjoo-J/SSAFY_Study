@@ -1,4 +1,4 @@
-package PrefixSum.프로그래머스LV3_파괴되지않은건물;
+package Programmers.LV3_92344_파괴되지않은건물;
 
 class Solution_YK {
    public int solution(int[][] board, int[][] skill) {
