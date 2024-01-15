@@ -95,7 +95,7 @@ function makeProblemTableHtml(alg) {
             tag += `    <a href="http://boj.kr/${probNumber}">${probNumber}</a>    | `;
             tag += `    <a href="${alg}/${problem}">${problemInfos[probNumber]['title']}</a>    | `;
         } else {
-            tag += `\n|    ${splited[0]}    | `;
+            tag += `\n|    ${splited[0].replace('프로그래머스', '')}    | `;
             tag += `    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/${splited[1]}">${splited[1]}</a>    | `;
             tag += `    <a href="${alg}/${problem}">${splited[2]}</a>    | `;
         }
