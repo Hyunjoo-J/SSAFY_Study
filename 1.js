@@ -29,6 +29,7 @@ const algMap = {
     Trie: '트라이',
     TwoPointer: '투포인터',
     UnionFind: '유니온 파인드',
+    Programmers: '프로그래머스',
 };
 const bojLevelUrlPrefix = 'https://static.solved.ac/tier_small/';
 const bojLevelUrlSuffix = '.svg';
