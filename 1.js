@@ -94,9 +94,9 @@ function makeProblemTableHtml(alg) {
             tag += `    <a href="http://boj.kr/${probNumber}">${probNumber}    | `;
             tag += `    <a href="${alg}/${problem}">${problemInfos[probNumber]['title']}    | `;
         } else {
-            tag += `\n|        | `;
-            tag += `    ${splited[0]}    | `;
-            tag += `    <a href="${alg}/${problem}">${splited[1]}    | `;
+            tag += `\n|    ${splited[0]}    | `;
+            tag += `    ${splited[1]}    | `;
+            tag += `    <a href="${alg}/${problem}">${splited[2]}    | `;
         }
         for (let i = 0; i < 5; ++i) {
             tag += `${problemMap[alg][problem][i] ? checkMark : uncheckMark} |`;
