@@ -92,12 +92,12 @@ function makeProblemTableHtml(alg) {
                 problemInfos[probNumber]['level'] +
                 bojLevelUrlSuffix
             }" width="20"></img>    | `;
-            tag += `    <a href="http://boj.kr/${probNumber}">${probNumber}    | `;
-            tag += `    <a href="${alg}/${problem}">${problemInfos[probNumber]['title']}    | `;
+            tag += `    <a href="http://boj.kr/${probNumber}">${probNumber}</a>    | `;
+            tag += `    <a href="${alg}/${problem}">${problemInfos[probNumber]['title']}</a>    | `;
         } else {
             tag += `\n|    ${splited[0]}    | `;
-            tag += `    ${splited[1]}    | `;
-            tag += `    <a href="${alg}/${problem}">${splited[2]}    | `;
+            tag += `    <a href="https://school.programmers.co.kr/learn/courses/30/lessons/${splited[1]}">${splited[1]}</a>    | `;
+            tag += `    <a href="${alg}/${problem}">${splited[2]}</a>    | `;
         }
         for (let i = 0; i < 5; ++i) {
             tag += `${problemMap[alg][problem][i] ? checkMark : uncheckMark} |`;
