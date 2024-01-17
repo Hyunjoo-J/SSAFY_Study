@@ -5,14 +5,14 @@
 |그래프 탐색|25|21|15|23|0|
 |이분 탐색|7|6|4|6|0|
 |비트마스킹|1|1|0|0|0|
-|브루트포스|11|11|4|9|0|
+|브루트포스|12|11|4|9|0|
 |자료구조|10|7|4|10|0|
 |다익스트라|10|7|3|7|0|
 |분할정복|4|3|2|3|0|
 |다이나믹 프로그래밍|22|19|14|22|0|
 |플로이드 워셜|2|2|1|1|0|
-|그리디|12|11|6|11|0|
-|구현|15|8|4|11|0|
+|그리디|13|11|6|11|0|
+|구현|17|8|4|11|0|
 |KMP|3|3|2|2|0|
 |LCA(최소 공통 조상)|5|2|0|3|0|
 |수학|1|1|0|1|0|
@@ -25,7 +25,7 @@
 |트라이|2|0|0|1|0|
 |투포인터|6|6|4|5|0|
 |유니온 파인드|2|1|0|2|0|
-| **합계** | **167**|**131**|**74**|**142**|**1**|
+| **합계** | **171**|**131**|**74**|**142**|**1**|
 
 <br>
 
@@ -136,6 +136,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2304">2304</a>    |     <a href="Bruteforce/p2304_창고다각형">창고 다각형</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/27172">27172</a>    |     <a href="Bruteforce/p27172_수나누기게임">수 나누기 게임</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/3085">3085</a>    |     <a href="Bruteforce/p3085_사탕게임">사탕 게임</a>    | ✔ |✔ |❌ |✔ |❌ |
+|    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258709">258709</a>    |     <a href="Bruteforce/프로그래머스LV3_258709_주사위고르기">주사위고르기</a>    | ✔ |❌ |❌ |❌ |❌ |
 </details>
 
 <details>
@@ -268,6 +269,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/2138">2138</a>    |     <a href="Greedy/p2138_전구와스위치">전구와 스위치</a>    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2785">2785</a>    |     <a href="Greedy/p2785_체인">체인</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2885">2885</a>    |     <a href="Greedy/p2885_초콜릿식사">초콜릿 식사</a>    | ✔ |✔ |❌ |✔ |❌ |
+|    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42883">42883</a>    |     <a href="Greedy/프로그래머스LV2_42883_큰수만들기">큰수만들기</a>    | ✔ |❌ |❌ |❌ |❌ |
 </details>
 
 <details>
@@ -294,6 +296,8 @@
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/20058">20058</a>    |     <a href="Implematation/p20058_마법사상어와파이어스톰">마법사 상어와 파이어스톰</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    |     <a href="http://boj.kr/23289">23289</a>    |     <a href="Implematation/p23289_온풍기안녕">온풍기 안녕!</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/2632">2632</a>    |     <a href="Implematation/p2632_피자판매">피자판매</a>    | ✔ |❌ |❌ |✔ |❌ |
+|    LV1    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258712">258712</a>    |     <a href="Implematation/프로그래머스LV1_258712_가장많이받은선물">가장많이받은선물</a>    | ✔ |❌ |❌ |❌ |❌ |
+|    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258711">258711</a>    |     <a href="Implematation/프로그래머스LV2_258711_도넛과막대그래프">도넛과막대그래프</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60057">60057</a>    |     <a href="Implematation/프로그래머스LV2_60057_문자열압축">문자열압축</a>    | ✔ |❌ |❌ |❌ |❌ |
 </details>
 
@@ -352,7 +356,7 @@
     
 |    티어   |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-|    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/10423">10423</a>    |     <a href="MST/p10423_전기가부족해">전기가 부족해</a>    | ✔ |✔ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/10423">10423</a>    |     <a href="MST/p10423_전기가부족해">전기가 부족해</a>    | ✔ |✔ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/14950">14950</a>    |     <a href="MST/p14950_정복자">정복자</a>    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/16398">16398</a>    |     <a href="MST/p16398_행성연결">행성 연결</a>    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/1647">1647</a>    |     <a href="MST/p1647_도시분할계획">도시 분할 계획</a>    | ✔ |✔ |❌ |✔ |❌ |
