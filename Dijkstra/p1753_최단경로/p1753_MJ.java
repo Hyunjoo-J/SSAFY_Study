@@ -11,6 +11,7 @@ import java.util.StringTokenizer;
 
 public class p1753_MJ {
 
+
 	static class Node implements Comparable<Node>{
 		int to;
 		int weight;
