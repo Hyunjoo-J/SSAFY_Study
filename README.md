@@ -3,7 +3,7 @@
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |백트래킹|4|4|4|4|0|
 |그래프 탐색|25|21|15|23|0|
-|이분 탐색|7|6|4|6|0|
+|이분 탐색|8|6|4|6|0|
 |비트마스킹|1|1|0|0|0|
 |브루트포스|12|11|4|9|0|
 |자료구조|10|7|4|10|0|
@@ -25,7 +25,7 @@
 |트라이|2|0|0|1|0|
 |투포인터|6|6|4|5|0|
 |유니온 파인드|2|1|0|2|0|
-| **합계** | **171**|**131**|**74**|**142**|**1**|
+| **합계** | **172**|**131**|**74**|**142**|**1**|
 
 <br>
 
@@ -100,6 +100,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2805">2805</a>    |     <a href="BinarySearch/p2805_나무자르기">나무 자르기</a>    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/22.svg" width="20"></img>    |     <a href="http://boj.kr/4001">4001</a>    |     <a href="BinarySearch/p4001_미노타우르스미궁">미노타우르스 미궁</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/7453">7453</a>    |     <a href="BinarySearch/p7453_합이0인네정수">합이 0인 네 정수</a>    | ✔ |✔ |✔ |✔ |❌ |
+|    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72412">72412</a>    |     <a href="BinarySearch/프로그래머스LV2_72412_순위검색">순위검색</a>    | ✔ |❌ |❌ |❌ |❌ |
 </details>
 
 <details>
