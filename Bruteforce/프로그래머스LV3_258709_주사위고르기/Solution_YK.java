@@ -48,7 +48,7 @@ public class Solution_YK {
         psumA = new int[501];
         psumB = new int[501];
 
-        combi2(0);
+        perm(0);
 
         // 누적 합
         for (int i = 1; i <= 500; ++i) {
@@ -68,7 +68,7 @@ public class Solution_YK {
         }
     }
 
-    private void combi2(int cnt) {
+    private void perm(int cnt) {
         if (cnt == R) {
             int s1 = 0, s2 = 0;
             for (int i = 0; i < R; ++i) {
@@ -85,7 +85,7 @@ public class Solution_YK {
 
         for (int i = 0; i < 6; ++i) {
             selected[cnt] = i;
-            combi2(cnt + 1);
+            perm(cnt + 1);
         }
     }
 
