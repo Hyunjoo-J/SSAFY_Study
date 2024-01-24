@@ -5,14 +5,14 @@
 |그래프 탐색|25|21|15|23|0|
 |이분 탐색|8|6|4|6|0|
 |비트마스킹|1|1|0|0|0|
-|브루트포스|13|11|4|9|0|
+|브루트포스|13|12|4|9|0|
 |자료구조|10|7|4|10|0|
 |다익스트라|10|7|3|7|0|
 |분할정복|4|3|2|3|0|
 |다이나믹 프로그래밍|23|19|14|22|0|
 |플로이드 워셜|2|2|1|1|0|
 |그리디|13|12|6|11|0|
-|구현|18|10|4|11|0|
+|구현|18|11|4|11|0|
 |KMP|3|3|2|2|0|
 |LCA(최소 공통 조상)|5|2|0|3|0|
 |수학|1|1|0|1|0|
@@ -25,7 +25,7 @@
 |트라이|2|0|0|1|0|
 |투포인터|6|6|4|5|0|
 |유니온 파인드|2|1|0|2|0|
-| **합계** | **175**|**134**|**74**|**142**|**1**|
+| **합계** | **175**|**136**|**74**|**142**|**1**|
 
 <br>
 
@@ -137,7 +137,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2304">2304</a>    |     <a href="Bruteforce/p2304_창고다각형">창고 다각형</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/27172">27172</a>    |     <a href="Bruteforce/p27172_수나누기게임">수 나누기 게임</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/3085">3085</a>    |     <a href="Bruteforce/p3085_사탕게임">사탕 게임</a>    | ✔ |✔ |❌ |✔ |❌ |
-|    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258709">258709</a>    |     <a href="Bruteforce/프로그래머스LV3_258709_주사위고르기">주사위고르기</a>    | ✔ |❌ |❌ |❌ |❌ |
+|    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258709">258709</a>    |     <a href="Bruteforce/프로그래머스LV3_258709_주사위고르기">주사위고르기</a>    | ✔ |✔ |❌ |❌ |❌ |
 |    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064">64064</a>    |     <a href="Bruteforce/프로그래머스LV3_64064_불량사용자">불량사용자</a>    | ✔ |❌ |❌ |❌ |❌ |
 </details>
 
@@ -300,7 +300,7 @@
 |    <img src="https://static.solved.ac/tier_small/16.svg" width="20"></img>    |     <a href="http://boj.kr/23289">23289</a>    |     <a href="Implematation/p23289_온풍기안녕">온풍기 안녕!</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/2632">2632</a>    |     <a href="Implematation/p2632_피자판매">피자판매</a>    | ✔ |❌ |❌ |✔ |❌ |
 |    LV1    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258712">258712</a>    |     <a href="Implematation/프로그래머스LV1_258712_가장많이받은선물">가장많이받은선물</a>    | ✔ |✔ |❌ |❌ |❌ |
-|    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258711">258711</a>    |     <a href="Implematation/프로그래머스LV2_258711_도넛과막대그래프">도넛과막대그래프</a>    | ✔ |❌ |❌ |❌ |❌ |
+|    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258711">258711</a>    |     <a href="Implematation/프로그래머스LV2_258711_도넛과막대그래프">도넛과막대그래프</a>    | ✔ |✔ |❌ |❌ |❌ |
 |    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60057">60057</a>    |     <a href="Implematation/프로그래머스LV2_60057_문자열압축">문자열압축</a>    | ✔ |✔ |❌ |❌ |❌ |
 |    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258707">258707</a>    |     <a href="Implematation/프로그래머스LV3_258707_n더하기1카드게임">n더하기1카드게임</a>    | ✔ |❌ |❌ |❌ |❌ |
 </details>
