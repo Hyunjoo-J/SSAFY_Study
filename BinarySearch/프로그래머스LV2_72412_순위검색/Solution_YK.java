@@ -50,7 +50,7 @@ public class Solution_YK {
     }
 
     private static int binarySearch() {
-        int left = 0, right = list[q[0]][q[1]][q[2]][q[3]].size();
+        int left = 0, right = list[q[0]][q[1]][q[2]][q[3]].size() - 1;
         while (left <= right) {
             int mid = (left + right) / 2;
 
@@ -117,11 +117,5 @@ public class Solution_YK {
                 }
             }
         }
-    }
-
-    public static void main(String[] args) {
-        String[] s1 = {"java backend junior pizza 150", "python frontend senior chicken 210", "python frontend senior chicken 150", "cpp backend senior pizza 260", "java backend junior chicken 80", "python backend senior chicken 50"};
-        String[] s2 = {"java and backend and junior and pizza 100", "python and frontend and senior and chicken 200", "cpp and - and senior and pizza 250", "- and backend and senior and - 150", "- and - and - and chicken 100", "- and - and - and - 150"};
-        System.out.println(Arrays.toString(solution(s1, s2)));
     }
 }
