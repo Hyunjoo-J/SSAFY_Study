@@ -2,11 +2,11 @@
 |    알고리즘    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |백트래킹|4|4|4|4|0|
-|그래프 탐색|25|21|15|23|0|
-|이분 탐색|8|7|4|6|0|
+|그래프 탐색|27|21|15|23|0|
+|이분 탐색|9|7|4|6|0|
 |비트마스킹|1|1|0|0|0|
 |브루트포스|13|12|4|9|0|
-|자료구조|10|7|4|10|0|
+|자료구조|11|7|4|10|0|
 |다익스트라|10|7|3|7|0|
 |분할정복|4|3|2|3|0|
 |다이나믹 프로그래밍|23|19|14|22|0|
@@ -19,13 +19,13 @@
 |MST(최소 스패닝 트리)|5|5|2|3|0|
 |누적합|3|3|3|3|0|
 |세그먼트 트리|5|3|0|3|1|
-|문자열|4|1|0|4|0|
+|문자열|5|1|0|4|0|
 |위상정렬|5|5|2|5|0|
 |트리|3|1|0|3|0|
 |트라이|2|0|0|1|0|
 |투포인터|6|6|4|5|0|
 |유니온 파인드|2|1|0|2|0|
-| **합계** | **175**|**138**|**74**|**142**|**1**|
+| **합계** | **180**|**138**|**74**|**142**|**1**|
 
 <br>
 
@@ -70,6 +70,7 @@
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/1697">1697</a>    |     <a href="BFS_DFS/p1697_숨바꼭질">숨바꼭질</a>    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/1707">1707</a>    |     <a href="BFS_DFS/p1707_이분그래프">이분 그래프</a>    | ✔ |❌ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/17129">17129</a>    |     <a href="BFS_DFS/p17129_윌리암슨수액빨이딱따구리가정보섬에올라온이유">윌리암슨수액빨이딱따구리가 정보섬에 올라온 이유</a>    | ✔ |❌ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/17836">17836</a>    |     <a href="BFS_DFS/p17836_공주님을구해라">공주님을 구해라!</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/18405">18405</a>    |     <a href="BFS_DFS/p18405_경쟁적전염">경쟁적 전염</a>    | ✔ |✔ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/1939">1939</a>    |     <a href="BFS_DFS/p1939_중량제한">중량제한</a>    | ✔ |❌ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/2206">2206</a>    |     <a href="BFS_DFS/p2206_벽부수고이동하기">벽 부수고 이동하기</a>    | ✔ |✔ |✔ |✔ |❌ |
@@ -81,6 +82,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2644">2644</a>    |     <a href="BFS_DFS/p2644_촌수계산">촌수계산</a>    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/7562">7562</a>    |     <a href="BFS_DFS/p7562_나이트의이동">나이트의 이동</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    |     <a href="http://boj.kr/9328">9328</a>    |     <a href="BFS_DFS/p9328_열쇠">열쇠</a>    | ✔ |✔ |❌ |✔ |❌ |
+|    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92343">92343</a>    |     <a href="BFS_DFS/프로그래머스LV3_92343_양과늑대">양과늑대</a>    | ✔ |❌ |❌ |❌ |❌ |
 </details>
 
 <details>
@@ -93,6 +95,7 @@
     
 |    티어   |    문제    |    제목    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+|    <img src="https://static.solved.ac/tier_small/7.svg" width="20"></img>    |     <a href="http://boj.kr/10816">10816</a>    |     <a href="BinarySearch/p10816_숫자카드2">숫자 카드 2</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/2110">2110</a>    |     <a href="BinarySearch/p2110_공유기설치">공유기 설치</a>    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/2467">2467</a>    |     <a href="BinarySearch/p2467_용액">용액</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/2473">2473</a>    |     <a href="BinarySearch/p2473_세용액">세 용액</a>    | ✔ |✔ |❌ |✔ |❌ |
@@ -161,6 +164,7 @@
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/1991">1991</a>    |     <a href="DataStructure/p1991_트리순회">트리 순회</a>    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/23309">23309</a>    |     <a href="DataStructure/p23309_철도공사">철도 공사</a>    | ✔ |❌ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/5397">5397</a>    |     <a href="DataStructure/p5397_키로거">키로거</a>    | ✔ |✔ |❌ |✔ |❌ |
+|    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42888">42888</a>    |     <a href="DataStructure/프로그래머스LV2_42888_오픈채팅방">오픈채팅방</a>    | ✔ |❌ |❌ |❌ |❌ |
 </details>
 
 <details>
@@ -413,6 +417,7 @@
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    |     <a href="http://boj.kr/20920">20920</a>    |     <a href="String/p20920_영단어암기는괴로워">영단어 암기는 괴로워</a>    | ✔ |❌ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/9177">9177</a>    |     <a href="String/p9177_단어섞기">단어 섞기</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/9935">9935</a>    |     <a href="String/p9935_문자열폭발">문자열 폭발</a>    | ✔ |❌ |❌ |✔ |❌ |
+|    LV1    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72410">72410</a>    |     <a href="String/프로그래머스LV1_72410_신규아이디추천">신규아이디추천</a>    | ✔ |❌ |❌ |❌ |❌ |
 </details>
 
 <details>
