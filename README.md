@@ -5,9 +5,9 @@
 |그래프 탐색|29|24|15|23|0|
 |이분 탐색|9|8|5|6|0|
 |비트마스킹|1|1|0|0|0|
-|브루트포스|13|12|4|9|0|
+|브루트포스|14|12|4|9|0|
 |자료구조|11|8|4|10|0|
-|다익스트라|10|7|3|7|0|
+|다익스트라|11|7|3|7|0|
 |분할정복|4|3|2|3|0|
 |다이나믹 프로그래밍|23|19|14|22|0|
 |플로이드 워셜|2|2|1|1|0|
@@ -25,7 +25,7 @@
 |트라이|2|0|0|1|0|
 |투포인터|6|6|4|5|0|
 |유니온 파인드|2|1|0|2|0|
-| **합계** | **183**|**145**|**75**|**142**|**1**|
+| **합계** | **185**|**145**|**75**|**142**|**1**|
 
 <br>
 
@@ -142,6 +142,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2304">2304</a>    |     <a href="Bruteforce/p2304_창고다각형">창고 다각형</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/27172">27172</a>    |     <a href="Bruteforce/p27172_수나누기게임">수 나누기 게임</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/3085">3085</a>    |     <a href="Bruteforce/p3085_사탕게임">사탕 게임</a>    | ✔ |✔ |❌ |✔ |❌ |
+|    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87946">87946</a>    |     <a href="Bruteforce/프로그래머스LV2_87946_피로도">피로도</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258709">258709</a>    |     <a href="Bruteforce/프로그래머스LV3_258709_주사위고르기">주사위고르기</a>    | ✔ |✔ |❌ |❌ |❌ |
 |    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064">64064</a>    |     <a href="Bruteforce/프로그래머스LV3_64064_불량사용자">불량사용자</a>    | ✔ |❌ |❌ |❌ |❌ |
 </details>
@@ -183,6 +184,7 @@
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/11779">11779</a>    |     <a href="Dijkstra/p11779_최소비용구하기2">최소비용 구하기 2</a>    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/1238">1238</a>    |     <a href="Dijkstra/p1238_파티">파티</a>    | ✔ |✔ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/1446">1446</a>    |     <a href="Dijkstra/p1446_지름길">지름길</a>    | ✔ |✔ |❌ |✔ |❌ |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/1486">1486</a>    |     <a href="Dijkstra/p1486_등산">등산</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    |     <a href="http://boj.kr/16118">16118</a>    |     <a href="Dijkstra/p16118_달빛여우">달빛 여우</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/17270">17270</a>    |     <a href="Dijkstra/p17270_연예인은힘들어">연예인은 힘들어</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/1753">1753</a>    |     <a href="Dijkstra/p1753_최단경로">최단경로</a>    | ✔ |✔ |✔ |✔ |❌ |
