@@ -7,7 +7,7 @@
 |비트마스킹|1|1|0|0|0|
 |브루트포스|14|12|4|9|0|
 |자료구조|11|8|4|10|0|
-|다익스트라|11|7|3|7|0|
+|다익스트라|12|7|3|7|0|
 |분할정복|4|3|2|3|0|
 |다이나믹 프로그래밍|23|19|14|22|0|
 |플로이드 워셜|2|2|1|1|0|
@@ -25,7 +25,7 @@
 |트라이|2|0|0|1|0|
 |투포인터|6|6|4|5|0|
 |유니온 파인드|2|1|0|2|0|
-| **합계** | **185**|**145**|**75**|**142**|**1**|
+| **합계** | **186**|**145**|**75**|**142**|**1**|
 
 <br>
 
@@ -191,6 +191,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/1916">1916</a>    |     <a href="Dijkstra/p1916_최소비용구하기">최소비용 구하기</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/2211">2211</a>    |     <a href="Dijkstra/p2211_네트워크복구">네트워크 복구</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/9370">9370</a>    |     <a href="Dijkstra/p9370_미확인도착지">미확인 도착지</a>    | ✔ |❌ |❌ |✔ |❌ |
+|    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72413">72413</a>    |     <a href="Dijkstra/프로그래머스LV3_72413_합승택시요금">합승택시요금</a>    | ✔ |❌ |❌ |❌ |❌ |
 </details>
 
 <details>
