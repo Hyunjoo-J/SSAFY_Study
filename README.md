@@ -2,7 +2,7 @@
 |    알고리즘    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |백트래킹|4|4|4|4|0|
-|그래프 탐색|28|24|15|23|0|
+|그래프 탐색|29|24|15|23|0|
 |이분 탐색|9|8|5|6|0|
 |비트마스킹|1|1|0|0|0|
 |브루트포스|13|12|4|9|0|
@@ -25,7 +25,7 @@
 |트라이|2|0|0|1|0|
 |투포인터|6|6|4|5|0|
 |유니온 파인드|2|1|0|2|0|
-| **합계** | **182**|**145**|**75**|**142**|**1**|
+| **합계** | **183**|**145**|**75**|**142**|**1**|
 
 <br>
 
@@ -82,6 +82,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2644">2644</a>    |     <a href="BFS_DFS/p2644_촌수계산">촌수계산</a>    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/7562">7562</a>    |     <a href="BFS_DFS/p7562_나이트의이동">나이트의 이동</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    |     <a href="http://boj.kr/9328">9328</a>    |     <a href="BFS_DFS/p9328_열쇠">열쇠</a>    | ✔ |✔ |❌ |✔ |❌ |
+|    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/49189">49189</a>    |     <a href="BFS_DFS/프로그래머스LV3_49189_가장먼노드">가장먼노드</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77486">77486</a>    |     <a href="BFS_DFS/프로그래머스LV3_77486_다단계칫솔판매">다단계칫솔판매</a>    | ✔ |✔ |❌ |❌ |❌ |
 |    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92343">92343</a>    |     <a href="BFS_DFS/프로그래머스LV3_92343_양과늑대">양과늑대</a>    | ✔ |✔ |❌ |❌ |❌ |
 </details>
