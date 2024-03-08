@@ -2,16 +2,16 @@
 |    알고리즘    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |백트래킹|4|4|4|4|0|
-|그래프 탐색|30|24|16|23|0|
+|그래프 탐색|31|24|16|23|0|
 |이분 탐색|9|8|5|6|0|
 |비트마스킹|1|1|0|0|0|
 |브루트포스|15|12|5|9|0|
 |자료구조|11|8|4|10|0|
 |다익스트라|12|7|4|7|0|
 |분할정복|4|3|2|3|0|
-|다이나믹 프로그래밍|23|19|14|22|0|
+|다이나믹 프로그래밍|24|19|14|22|0|
 |플로이드 워셜|2|2|1|1|0|
-|그리디|13|12|6|11|0|
+|그리디|14|12|6|11|0|
 |구현|20|13|4|11|0|
 |KMP|3|3|2|2|0|
 |LCA(최소 공통 조상)|5|2|0|3|0|
@@ -25,7 +25,7 @@
 |트라이|2|0|0|1|0|
 |투포인터|6|6|4|5|0|
 |유니온 파인드|2|1|0|2|0|
-| **합계** | **189**|**145**|**78**|**142**|**1**|
+| **합계** | **192**|**145**|**78**|**142**|**1**|
 
 <br>
 
@@ -80,6 +80,7 @@
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/2583">2583</a>    |     <a href="BFS_DFS/p2583_영역구하기">영역 구하기</a>    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    |     <a href="http://boj.kr/2606">2606</a>    |     <a href="BFS_DFS/p2606_바이러스">바이러스</a>    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2644">2644</a>    |     <a href="BFS_DFS/p2644_촌수계산">촌수계산</a>    | ✔ |✔ |✔ |✔ |❌ |
+|    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/30396">30396</a>    |     <a href="BFS_DFS/p30396_기사들의여행">기사들의 여행</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/7562">7562</a>    |     <a href="BFS_DFS/p7562_나이트의이동">나이트의 이동</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    |     <a href="http://boj.kr/9328">9328</a>    |     <a href="BFS_DFS/p9328_열쇠">열쇠</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1829">1829</a>    |     <a href="BFS_DFS/프로그래머스LV2_1829_카카오프렌즈컬러링북">카카오프렌즈컬러링북</a>    | ✔ |❌ |❌ |❌ |❌ |
@@ -228,6 +229,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/11060">11060</a>    |     <a href="DynamicProgramming/p11060_점프점프">점프 점프</a>    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/11066">11066</a>    |     <a href="DynamicProgramming/p11066_파일합치기">파일 합치기</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/1149">1149</a>    |     <a href="DynamicProgramming/p1149_RGB거리">RGB거리</a>    | ✔ |✔ |✔ |✔ |❌ |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/1256">1256</a>    |     <a href="DynamicProgramming/p1256_사전">사전</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/17.svg" width="20"></img>    |     <a href="http://boj.kr/12920">12920</a>    |     <a href="DynamicProgramming/p12920_평범한배낭2">평범한 배낭 2</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    |     <a href="http://boj.kr/14501">14501</a>    |     <a href="DynamicProgramming/p14501_퇴사">퇴사</a>    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/1520">1520</a>    |     <a href="DynamicProgramming/p1520_내리막길">내리막 길</a>    | ✔ |✔ |✔ |✔ |❌ |
@@ -282,6 +284,7 @@
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    |     <a href="http://boj.kr/20300">20300</a>    |     <a href="Greedy/p20300_서강근육맨">서강근육맨</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/2138">2138</a>    |     <a href="Greedy/p2138_전구와스위치">전구와 스위치</a>    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2785">2785</a>    |     <a href="Greedy/p2785_체인">체인</a>    | ✔ |✔ |❌ |✔ |❌ |
+|    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    |     <a href="http://boj.kr/28353">28353</a>    |     <a href="Greedy/p28353_고양이카페">고양이 카페</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2885">2885</a>    |     <a href="Greedy/p2885_초콜릿식사">초콜릿 식사</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42883">42883</a>    |     <a href="Greedy/프로그래머스LV2_42883_큰수만들기">큰수만들기</a>    | ✔ |✔ |❌ |❌ |❌ |
 </details>
