@@ -2,17 +2,17 @@
 |    알고리즘    | 김현창 | 양유경 | 정민지 | 정현주 | 이동훈 |
 | :-------------: | :----: | :----: | :----: | :----: | :----: |
 |백트래킹|4|4|4|4|0|
-|그래프 탐색|29|24|16|23|0|
+|그래프 탐색|30|24|16|23|0|
 |이분 탐색|9|8|5|6|0|
 |비트마스킹|1|1|0|0|0|
-|브루트포스|14|12|5|9|0|
+|브루트포스|15|12|5|9|0|
 |자료구조|11|8|4|10|0|
-|다익스트라|12|7|3|7|0|
+|다익스트라|12|7|4|7|0|
 |분할정복|4|3|2|3|0|
 |다이나믹 프로그래밍|23|19|14|22|0|
 |플로이드 워셜|2|2|1|1|0|
 |그리디|13|12|6|11|0|
-|구현|19|13|4|11|0|
+|구현|20|13|4|11|0|
 |KMP|3|3|2|2|0|
 |LCA(최소 공통 조상)|5|2|0|3|0|
 |수학|1|1|0|1|0|
@@ -25,7 +25,7 @@
 |트라이|2|0|0|1|0|
 |투포인터|6|6|4|5|0|
 |유니온 파인드|2|1|0|2|0|
-| **합계** | **186**|**145**|**77**|**142**|**1**|
+| **합계** | **189**|**145**|**78**|**142**|**1**|
 
 <br>
 
@@ -82,6 +82,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2644">2644</a>    |     <a href="BFS_DFS/p2644_촌수계산">촌수계산</a>    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/7562">7562</a>    |     <a href="BFS_DFS/p7562_나이트의이동">나이트의 이동</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    |     <a href="http://boj.kr/9328">9328</a>    |     <a href="BFS_DFS/p9328_열쇠">열쇠</a>    | ✔ |✔ |❌ |✔ |❌ |
+|    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/1829">1829</a>    |     <a href="BFS_DFS/프로그래머스LV2_1829_카카오프렌즈컬러링북">카카오프렌즈컬러링북</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/49189">49189</a>    |     <a href="BFS_DFS/프로그래머스LV3_49189_가장먼노드">가장먼노드</a>    | ✔ |❌ |✔ |❌ |❌ |
 |    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/77486">77486</a>    |     <a href="BFS_DFS/프로그래머스LV3_77486_다단계칫솔판매">다단계칫솔판매</a>    | ✔ |✔ |❌ |❌ |❌ |
 |    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92343">92343</a>    |     <a href="BFS_DFS/프로그래머스LV3_92343_양과늑대">양과늑대</a>    | ✔ |✔ |❌ |❌ |❌ |
@@ -143,6 +144,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/27172">27172</a>    |     <a href="Bruteforce/p27172_수나누기게임">수 나누기 게임</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/3085">3085</a>    |     <a href="Bruteforce/p3085_사탕게임">사탕 게임</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87946">87946</a>    |     <a href="Bruteforce/프로그래머스LV2_87946_피로도">피로도</a>    | ✔ |❌ |✔ |❌ |❌ |
+|    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92342">92342</a>    |     <a href="Bruteforce/프로그래머스LV2_92342_양궁대회">양궁대회</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258709">258709</a>    |     <a href="Bruteforce/프로그래머스LV3_258709_주사위고르기">주사위고르기</a>    | ✔ |✔ |❌ |❌ |❌ |
 |    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064">64064</a>    |     <a href="Bruteforce/프로그래머스LV3_64064_불량사용자">불량사용자</a>    | ✔ |❌ |❌ |❌ |❌ |
 </details>
@@ -191,7 +193,7 @@
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/1916">1916</a>    |     <a href="Dijkstra/p1916_최소비용구하기">최소비용 구하기</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/2211">2211</a>    |     <a href="Dijkstra/p2211_네트워크복구">네트워크 복구</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/9370">9370</a>    |     <a href="Dijkstra/p9370_미확인도착지">미확인 도착지</a>    | ✔ |❌ |❌ |✔ |❌ |
-|    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72413">72413</a>    |     <a href="Dijkstra/프로그래머스LV3_72413_합승택시요금">합승택시요금</a>    | ✔ |❌ |❌ |❌ |❌ |
+|    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/72413">72413</a>    |     <a href="Dijkstra/프로그래머스LV3_72413_합승택시요금">합승택시요금</a>    | ✔ |❌ |✔ |❌ |❌ |
 </details>
 
 <details>
@@ -312,6 +314,7 @@
 |    LV1    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258712">258712</a>    |     <a href="Implematation/프로그래머스LV1_258712_가장많이받은선물">가장많이받은선물</a>    | ✔ |✔ |❌ |❌ |❌ |
 |    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258711">258711</a>    |     <a href="Implematation/프로그래머스LV2_258711_도넛과막대그래프">도넛과막대그래프</a>    | ✔ |✔ |❌ |❌ |❌ |
 |    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60057">60057</a>    |     <a href="Implematation/프로그래머스LV2_60057_문자열압축">문자열압축</a>    | ✔ |✔ |❌ |❌ |❌ |
+|    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92341">92341</a>    |     <a href="Implematation/프로그래머스LV2_92341_주차요금계산">주차요금계산</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258707">258707</a>    |     <a href="Implematation/프로그래머스LV3_258707_n더하기1카드게임">n더하기1카드게임</a>    | ✔ |✔ |❌ |❌ |❌ |
 </details>
 
