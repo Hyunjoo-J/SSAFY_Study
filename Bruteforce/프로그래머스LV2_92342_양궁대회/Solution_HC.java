@@ -1,4 +1,4 @@
-package Bruteforce.프로그래머스LV2_양궁대회;
+package Bruteforce.프로그래머스LV2_92342_양궁대회;
 
 class Solution_HC {
 
