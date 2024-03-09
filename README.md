@@ -6,7 +6,7 @@
 |이분 탐색|9|8|5|6|0|
 |비트마스킹|1|1|0|0|0|
 |브루트포스|15|12|5|9|0|
-|자료구조|11|8|4|10|0|
+|자료구조|12|8|4|10|0|
 |다익스트라|12|7|4|7|0|
 |분할정복|4|3|2|3|0|
 |다이나믹 프로그래밍|24|19|14|22|0|
@@ -25,7 +25,7 @@
 |트라이|2|0|0|1|0|
 |투포인터|6|6|4|5|0|
 |유니온 파인드|2|1|0|2|0|
-| **합계** | **192**|**145**|**78**|**142**|**1**|
+| **합계** | **193**|**145**|**78**|**142**|**1**|
 
 <br>
 
@@ -171,6 +171,7 @@
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/23309">23309</a>    |     <a href="DataStructure/p23309_철도공사">철도 공사</a>    | ✔ |❌ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/5397">5397</a>    |     <a href="DataStructure/p5397_키로거">키로거</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42888">42888</a>    |     <a href="DataStructure/프로그래머스LV2_42888_오픈채팅방">오픈채팅방</a>    | ✔ |✔ |❌ |❌ |❌ |
+|    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/214288">214288</a>    |     <a href="DataStructure/프로그래머스LV3_214288_상담원인원">상담원인원</a>    | ✔ |❌ |❌ |❌ |❌ |
 </details>
 
 <details>
