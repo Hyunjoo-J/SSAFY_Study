@@ -5,7 +5,7 @@
 |그래프 탐색|31|26|17|23|0|
 |이분 탐색|9|8|5|6|0|
 |비트마스킹|1|1|0|0|0|
-|브루트포스|16|13|5|9|0|
+|브루트포스|17|13|5|9|0|
 |조합론|1|0|0|0|0|
 |자료구조|12|8|4|10|0|
 |다익스트라|12|7|4|7|0|
@@ -26,7 +26,7 @@
 |트라이|2|0|0|1|0|
 |투포인터|6|6|4|5|0|
 |유니온 파인드|2|1|0|2|0|
-| **합계** | **195**|**150**|**81**|**142**|**1**|
+| **합계** | **196**|**150**|**81**|**142**|**1**|
 
 <br>
 
@@ -146,6 +146,7 @@
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2304">2304</a>    |     <a href="Bruteforce/p2304_창고다각형">창고 다각형</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/27172">27172</a>    |     <a href="Bruteforce/p27172_수나누기게임">수 나누기 게임</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/3085">3085</a>    |     <a href="Bruteforce/p3085_사탕게임">사탕 게임</a>    | ✔ |✔ |❌ |✔ |❌ |
+|    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42890">42890</a>    |     <a href="Bruteforce/프로그래머스LV2_42890_후보키">후보키</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87946">87946</a>    |     <a href="Bruteforce/프로그래머스LV2_87946_피로도">피로도</a>    | ✔ |❌ |✔ |❌ |❌ |
 |    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92342">92342</a>    |     <a href="Bruteforce/프로그래머스LV2_92342_양궁대회">양궁대회</a>    | ✔ |✔ |❌ |❌ |❌ |
 |    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258709">258709</a>    |     <a href="Bruteforce/프로그래머스LV3_258709_주사위고르기">주사위고르기</a>    | ✔ |✔ |❌ |❌ |❌ |
