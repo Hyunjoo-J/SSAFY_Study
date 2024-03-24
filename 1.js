@@ -11,6 +11,7 @@ const algMap = {
     Bitmasking: '비트마스킹',
     Bruteforce: '브루트포스',
     DataStructure: '자료구조',
+    Combinatorics: '조합론',
     Dijkstra: '다익스트라',
     DivideAndConquer: '분할정복',
     DynamicProgramming: '다이나믹 프로그래밍',
