@@ -5,7 +5,7 @@
 |그래프 탐색|31|26|17|23|0|
 |이분 탐색|9|8|5|6|0|
 |비트마스킹|1|1|0|0|0|
-|브루트포스|17|13|5|9|0|
+|브루트포스|18|13|5|9|0|
 |조합론|1|0|0|0|0|
 |자료구조|12|8|4|10|0|
 |다익스트라|12|7|4|7|0|
@@ -26,7 +26,7 @@
 |트라이|2|0|0|1|0|
 |투포인터|6|6|4|5|0|
 |유니온 파인드|2|1|0|2|0|
-| **합계** | **196**|**150**|**81**|**142**|**1**|
+| **합계** | **197**|**150**|**81**|**142**|**1**|
 
 <br>
 
@@ -150,6 +150,7 @@
 |    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/87946">87946</a>    |     <a href="Bruteforce/프로그래머스LV2_87946_피로도">피로도</a>    | ✔ |❌ |✔ |❌ |❌ |
 |    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/92342">92342</a>    |     <a href="Bruteforce/프로그래머스LV2_92342_양궁대회">양궁대회</a>    | ✔ |✔ |❌ |❌ |❌ |
 |    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/258709">258709</a>    |     <a href="Bruteforce/프로그래머스LV3_258709_주사위고르기">주사위고르기</a>    | ✔ |✔ |❌ |❌ |❌ |
+|    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/60062">60062</a>    |     <a href="Bruteforce/프로그래머스LV3_60062_외벽점검">외벽점검</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    LV3    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/64064">64064</a>    |     <a href="Bruteforce/프로그래머스LV3_64064_불량사용자">불량사용자</a>    | ✔ |❌ |❌ |❌ |❌ |
 </details>
 
@@ -324,7 +325,7 @@
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/17780">17780</a>    |     <a href="Implematation/p17780_새로운게임">새로운 게임</a>    | ✔ |❌ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    |     <a href="http://boj.kr/1800">1800</a>    |     <a href="Implematation/p1800_인터넷설치">인터넷 설치</a>    | ✔ |❌ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/19236">19236</a>    |     <a href="Implematation/p19236_청소년상어">청소년 상어</a>    | ✔ |❌ |❌ |✔ |❌ |
-|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/20006">20006</a>    |     <a href="Implematation/p20006_랭킹전대기열">랭킹전 대기열</a>    | ✔ |✔ |❌ |❌ |❌ |
+|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/20006">20006</a>    |     <a href="Implematation/p20006_랭킹전대기열">랭킹전 대기열</a>    | ✔ |✔ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/20056">20056</a>    |     <a href="Implematation/p20056_마법사상어와파이어볼">마법사 상어와 파이어볼</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/20057">20057</a>    |     <a href="Implematation/p20057_마법사상어와토네이도">마법사 상어와 토네이도</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/20058">20058</a>    |     <a href="Implematation/p20058_마법사상어와파이어스톰">마법사 상어와 파이어스톰</a>    | ✔ |❌ |❌ |❌ |❌ |
