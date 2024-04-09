@@ -303,7 +303,7 @@
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/1946">1946</a>    |     <a href="Greedy/p1946_신입사원">신입 사원</a>    | ✔ |✔ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    |     <a href="http://boj.kr/20300">20300</a>    |     <a href="Greedy/p20300_서강근육맨">서강근육맨</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/11.svg" width="20"></img>    |     <a href="http://boj.kr/2138">2138</a>    |     <a href="Greedy/p2138_전구와스위치">전구와 스위치</a>    | ✔ |✔ |✔ |✔ |❌ |
-|    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2785">2785</a>    |     <a href="Greedy/p2785_체인">체인</a>    | ✔ |✔ |❌ |✔ |❌ |
+|    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/2785">2785</a>    |     <a href="Greedy/p2785_체인">체인</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/8.svg" width="20"></img>    |     <a href="http://boj.kr/28353">28353</a>    |     <a href="Greedy/p28353_고양이카페">고양이 카페</a>    | ✔ |✔ |✔ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/9.svg" width="20"></img>    |     <a href="http://boj.kr/2885">2885</a>    |     <a href="Greedy/p2885_초콜릿식사">초콜릿 식사</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    LV2    |     <a href="https://school.programmers.co.kr/learn/courses/30/lessons/42883">42883</a>    |     <a href="Greedy/프로그래머스LV2_42883_큰수만들기">큰수만들기</a>    | ✔ |✔ |❌ |❌ |❌ |
