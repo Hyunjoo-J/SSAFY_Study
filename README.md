@@ -13,7 +13,7 @@
 |다이나믹 프로그래밍|24|19|14|22|0|
 |플로이드 워셜|2|2|1|1|0|
 |그리디|14|13|7|11|0|
-|구현|21|14|5|11|0|
+|구현|22|14|5|11|0|
 |KMP|3|3|2|2|0|
 |LCA(최소 공통 조상)|5|2|0|3|0|
 |수학|2|1|0|1|0|
@@ -26,7 +26,7 @@
 |트라이|2|0|0|1|0|
 |투포인터|6|6|4|5|0|
 |유니온 파인드|2|1|0|2|0|
-| **합계** | **201**|**150**|**81**|**142**|**1**|
+| **합계** | **202**|**150**|**81**|**142**|**1**|
 
 <br>
 
@@ -327,6 +327,7 @@
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/17780">17780</a>    |     <a href="Implematation/p17780_새로운게임">새로운 게임</a>    | ✔ |❌ |✔ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/15.svg" width="20"></img>    |     <a href="http://boj.kr/1800">1800</a>    |     <a href="Implematation/p1800_인터넷설치">인터넷 설치</a>    | ✔ |❌ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/19236">19236</a>    |     <a href="Implematation/p19236_청소년상어">청소년 상어</a>    | ✔ |❌ |❌ |✔ |❌ |
+|    <img src="https://static.solved.ac/tier_small/14.svg" width="20"></img>    |     <a href="http://boj.kr/19237">19237</a>    |     <a href="Implematation/p19237_어른상어">어른 상어</a>    | ✔ |❌ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/10.svg" width="20"></img>    |     <a href="http://boj.kr/20006">20006</a>    |     <a href="Implematation/p20006_랭킹전대기열">랭킹전 대기열</a>    | ✔ |✔ |❌ |❌ |❌ |
 |    <img src="https://static.solved.ac/tier_small/12.svg" width="20"></img>    |     <a href="http://boj.kr/20056">20056</a>    |     <a href="Implematation/p20056_마법사상어와파이어볼">마법사 상어와 파이어볼</a>    | ✔ |✔ |❌ |✔ |❌ |
 |    <img src="https://static.solved.ac/tier_small/13.svg" width="20"></img>    |     <a href="http://boj.kr/20057">20057</a>    |     <a href="Implematation/p20057_마법사상어와토네이도">마법사 상어와 토네이도</a>    | ✔ |✔ |❌ |✔ |❌ |
